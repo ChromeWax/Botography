@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: f58766129b2014e40a5bfe0eb6d428ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 422
+        width: 99
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219737c02cfa3ac45baf1db6ce957346
+      internalID: -88154635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 423
+        width: 98
+        height: 121
+      alignment: 9
+      pivot: {x: 0.49412817, y: 0.14195497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2247f1df344842a660cfc32bb3651
+      internalID: -1342164986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 422
+        width: 97
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69955481367e08f4090c60c08b01cf8d
+      internalID: 299133197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 422
+        width: 98
+        height: 116
+      alignment: 9
+      pivot: {x: 0.50426936, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3ad6b7c215d94391cc9c31445564f
+      internalID: -1029490643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 423
+        width: 100
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5046118, y: 0.1408725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b452a0c3636f942ae6776e285e647e
+      internalID: 688249166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 242
+        width: 101
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7751f2f9056c8b3478ef52a3f5f9beca
+      internalID: -1883868569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 243
+        width: 102
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5068416, y: 0.14085314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfdc524d3cdf9844bb23fe23560dfb9
+      internalID: -402851626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 243
+        width: 102
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5073057, y: 0.13971698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c911385d6b6a46b8444afaafc5244
+      internalID: 758924686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 242
+        width: 103
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5127735, y: 0.14897093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1403661037f66b54d844ae6f5f17de83
+      internalID: 1778441818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 242
+        width: 101
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5124983, y: 0.14851771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6767686503aed4ca72e80ff3a04791
+      internalID: -10737947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 103
+        height: 114
+      alignment: 9
+      pivot: {x: 0.501745, y: 0.13996685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3125ccb89af52478aa00185a86bb25
+      internalID: -1726051045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 65
+        width: 98
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50639063, y: 0.13993898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ba100204dc906428d156db754592fb
+      internalID: 1334318893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 895ddd4b3e1163348a03c209f4fe8e44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_0: -88154635
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_1: -1342164986
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_10: -1726051045
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_11: 1334318893
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_2: 299133197
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_3: -1029490643
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_4: 688249166
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_5: -1883868569
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_6: -402851626
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_7: 758924686
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_8: 1778441818
+      sheet_anim_BeanStalkBomber_Idle_Bulb_Polish_9: -10737947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

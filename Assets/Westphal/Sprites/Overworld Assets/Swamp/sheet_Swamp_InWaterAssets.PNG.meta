@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: d41fcf7bf07d6f048993969f4aa78f22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swamp_InWater_FallenTree
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 881
+        width: 554
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904303b968ab0ca4fad75d14c5e396aa
+      internalID: 359674564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_Trees_Medium
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 561
+        width: 390
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19100087a21f9584aac95a053797d7dd
+      internalID: 1312194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_Trees_Large
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 248
+        width: 682
+        height: 743
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2015fc7ad67e2439c6ac91a12ab5f0
+      internalID: -640595687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_FallenTreeV2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 686
+        width: 573
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bfb593d8aa4184f8d78477a22dee8e
+      internalID: 1016551226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_LargeBranch
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 454
+        width: 257
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1229e85ab53a964a9505af3a7294d85
+      internalID: 1203715342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_Trees_Small
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 17
+        width: 349
+        height: 486
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ee0db9a3fe504dba8dd1d9368343c
+      internalID: 917440341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_Rock_Large
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 294
+        width: 212
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ceab3de5a572742b4e613634d3bb1c
+      internalID: 1822440944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_InWater_Rock_Medium
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 163
+        width: 168
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcaf367b068dd440b8402f5540da26e
+      internalID: -1540792265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 551dd909ad923684cb05fbc24afa9540
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swamp_InWater_FallenTree: 359674564
+      Swamp_InWater_FallenTreeV2: 1016551226
+      Swamp_InWater_LargeBranch: 1203715342
+      Swamp_InWater_Rock_Large: 1822440944
+      Swamp_InWater_Rock_Medium: -1540792265
+      Swamp_InWater_Trees_Large: -640595687
+      Swamp_InWater_Trees_Medium: 1312194014
+      Swamp_InWater_Trees_Small: 917440341
+      sheet_Swamp_InWaterAssets_1: 462265507
+      sheet_Swamp_InWaterAssets_10: -1006155954
+      sheet_Swamp_InWaterAssets_11: 229424300
+      sheet_Swamp_InWaterAssets_12: 1417207866
+      sheet_Swamp_InWaterAssets_13: 1565437246
+      sheet_Swamp_InWaterAssets_14: -464199877
+      sheet_Swamp_InWaterAssets_15: -1771250553
+      sheet_Swamp_InWaterAssets_16: -1037335930
+      sheet_Swamp_InWaterAssets_17: 670408249
+      sheet_Swamp_InWaterAssets_18: 1531778534
+      sheet_Swamp_InWaterAssets_19: 1586205802
+      sheet_Swamp_InWaterAssets_2: -83700437
+      sheet_Swamp_InWaterAssets_20: 2114663631
+      sheet_Swamp_InWaterAssets_21: -1173328899
+      sheet_Swamp_InWaterAssets_22: -1202385596
+      sheet_Swamp_InWaterAssets_24: 1134704465
+      sheet_Swamp_InWaterAssets_25: 746921379
+      sheet_Swamp_InWaterAssets_26: 636799208
+      sheet_Swamp_InWaterAssets_27: -2037856227
+      sheet_Swamp_InWaterAssets_28: -1379847587
+      sheet_Swamp_InWaterAssets_29: 574937317
+      sheet_Swamp_InWaterAssets_3: -1808765193
+      sheet_Swamp_InWaterAssets_30: -525858804
+      sheet_Swamp_InWaterAssets_32: 77001150
+      sheet_Swamp_InWaterAssets_34: -1940277941
+      sheet_Swamp_InWaterAssets_35: -1628659850
+      sheet_Swamp_InWaterAssets_36: 1372105570
+      sheet_Swamp_InWaterAssets_37: 255935844
+      sheet_Swamp_InWaterAssets_38: 792799373
+      sheet_Swamp_InWaterAssets_39: -13874097
+      sheet_Swamp_InWaterAssets_40: -2070029139
+      sheet_Swamp_InWaterAssets_41: -1190321520
+      sheet_Swamp_InWaterAssets_42: -493599958
+      sheet_Swamp_InWaterAssets_44: -1222076294
+      sheet_Swamp_InWaterAssets_45: 363861948
+      sheet_Swamp_InWaterAssets_46: 464384375
+      sheet_Swamp_InWaterAssets_47: 1198238605
+      sheet_Swamp_InWaterAssets_48: -515540889
+      sheet_Swamp_InWaterAssets_49: 1100997318
+      sheet_Swamp_InWaterAssets_50: 155474253
+      sheet_Swamp_InWaterAssets_7: 269051113
+      sheet_Swamp_InWaterAssets_8: 1979345771
+      sheet_Swamp_InWaterAssets_9: 745065035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: b8b53529b09abdb4b9a64048e26e60b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forest_Trees_Base_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 369
+        width: 399
+        height: 802
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -199.5, y: -199.09314}
+        - {x: -199.5, y: -401}
+        - {x: 199.5, y: -401}
+        - {x: 199.5, y: -199.1029}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d9a8e72b39014aa8ea6206f3cb250
+      internalID: -1723131631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 369
+        width: 364
+        height: 777
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11.994568, y: -203.42749}
+        - {x: -142.88751, y: -238.91345}
+        - {x: -182, y: -297.53137}
+        - {x: -143.80609, y: -356.35345}
+        - {x: -50.376648, y: -388.5}
+        - {x: 22.046265, y: -388.5}
+        - {x: 116.047424, y: -360.80942}
+        - {x: 149.43915, y: -307.44577}
+        - {x: 176.47906, y: -309.91907}
+        - {x: 182, y: -298.76205}
+        - {x: 170.8067, y: -283.54358}
+        - {x: 149.26038, y: -285.71222}
+        - {x: 108.8219, y: -233.50177}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5ff041991bcc46a3b76f3c7a0ecd2
+      internalID: 806711540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 134
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32.76996, y: -38.81421}
+        - {x: 59.445892, y: -27.852448}
+        - {x: 67, y: -8.989075}
+        - {x: -64.328766, y: -8.645721}
+        - {x: -60.543823, y: -27.780457}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9345a191f7b214791547fb8751b4cc
+      internalID: -170081755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 242
+        width: 146
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 29.207214, y: -34.444077}
+        - {x: 64.61389, y: -22.70465}
+        - {x: 65.722534, y: -4.180237}
+        - {x: -64.28186, y: -3.920868}
+        - {x: -62.216217, y: -22.733612}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9cff9e3b4f1f4caa005e107fdbd65
+      internalID: -712548329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 90
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -45, y: -14.358749}
+        - {x: -45, y: -46.033463}
+        - {x: -29.134573, y: -61.68206}
+        - {x: -0.000034332275, y: -66}
+        - {x: 27.509285, y: -60.733414}
+        - {x: 45, y: -45.446213}
+        - {x: 45, y: -14.345993}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95539a2d77a965443b7deffc16fc8896
+      internalID: 1527706308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 89
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44.5, y: -16.672592}
+        - {x: -44.5, y: -45.75444}
+        - {x: -33.773895, y: -60.38942}
+        - {x: 1.3347931, y: -66}
+        - {x: 30.638565, y: -60.22441}
+        - {x: 44.5, y: -46.481842}
+        - {x: 44.5, y: -16.672592}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37981a3a871184090ae4ec3055c66c
+      internalID: -173335402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 124
+        width: 134
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32.77005, y: -40.39525}
+        - {x: 58.648224, y: -33.59285}
+        - {x: 63.89096, y: -6.7623596}
+        - {x: -64.97615, y: -6.9684906}
+        - {x: -60.696777, y: -31.641403}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9007540c63bb0b14b8b4767d1fb902b5
+      internalID: -1052695795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 122
+        width: 146
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27.648315, y: -34.671722}
+        - {x: 62.81189, y: -23.44371}
+        - {x: 64.716675, y: -3.5769348}
+        - {x: -64.65741, y: -3.8338776}
+        - {x: -63.926056, y: -25.50299}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d930c63648112644abba2f230b4b2ac
+      internalID: -2047037573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forest_Trees_Base_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 15
+        width: 225
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef6065d59fab14ba6e05fd53032f9e
+      internalID: -1487135788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1005acae2644465428df7817f60db5ee
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Forest_Trees_Base_0: -1723131631
+      Forest_Trees_Base_1: 806711540
+      Forest_Trees_Base_10: -173335402
+      Forest_Trees_Base_11: 1362358840
+      Forest_Trees_Base_12: -1267388782
+      Forest_Trees_Base_13: 1483505942
+      Forest_Trees_Base_14: -1594712328
+      Forest_Trees_Base_15: -619367700
+      Forest_Trees_Base_16: -1052695795
+      Forest_Trees_Base_17: -1885270360
+      Forest_Trees_Base_18: 1422020753
+      Forest_Trees_Base_19: -2047037573
+      Forest_Trees_Base_2: -955592368
+      Forest_Trees_Base_20: -758296588
+      Forest_Trees_Base_21: -1487135788
+      Forest_Trees_Base_22: -1850929287
+      Forest_Trees_Base_23: -959403789
+      Forest_Trees_Base_24: -1094405924
+      Forest_Trees_Base_25: 472937841
+      Forest_Trees_Base_3: -170081755
+      Forest_Trees_Base_4: -783977002
+      Forest_Trees_Base_5: 1975011005
+      Forest_Trees_Base_6: -1657390396
+      Forest_Trees_Base_7: -712548329
+      Forest_Trees_Base_8: 192453697
+      Forest_Trees_Base_9: 1527706308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

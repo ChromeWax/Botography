@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note8
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "[The note is somehow unburned by the heat of the volcano]\r\n\r\nIt's
+    no white whale. The Panacean plants are real! Albeit, in a different form than
+    in the ancient past. They\u2019ve for some reason have hidden themselves deep
+    on the island. There are strange powers at work here, different from anything
+    I\u2019ve seen in my decades of biology field work. The ecosystem is reacting
+    incredibly quickly to our meddling, as if the island itself is alive! \r"

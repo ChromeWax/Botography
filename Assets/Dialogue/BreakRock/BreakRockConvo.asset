@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b20bddf669bc846ad7286e4a208e31, type: 3}
+  m_Name: BreakRockConvo
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: 89c6b94f608893f49bc85c9b0094c2e5, type: 2}
+  - {fileID: 11400000, guid: 63ac12119314e844e9f4c34fb33e3286, type: 2}
+  _convoName: BreakRock

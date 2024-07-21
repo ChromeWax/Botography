@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: b1efefac4be90044faed46a4e751f45e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 246
+        width: 115
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a24eddace7b7c45a5b859b0d5b4151
+      internalID: 1454632833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 241
+        width: 123
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7954b28b9b9b4f8ba833d97d5ce46
+      internalID: -2101345389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 242
+        width: 119
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd53ea5453e9c489d42842921335e1
+      internalID: -2069192595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 239
+        width: 119
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df4b0b5fe4a5c4097b160d22439baf
+      internalID: -88724824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 119
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213947a34f98a024a933d4ca394ce397
+      internalID: -1564535297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 11
+        width: 119
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347f25107c4d5334d9f219659e74961c
+      internalID: -1506539152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_CharacterEquipPickUpRoseCuffs_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 125
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbf0dc6e200fe4082e8189a6c6b9d4
+      internalID: 1009504866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cefb9bee0bb425499ec5472237e2d82
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_CharacterEquipPickUpRoseCuffs_0: 1585202008
+      sheet_anim_CharacterEquipPickUpRoseCuffs_1: -2081672989
+      sheet_anim_CharacterEquipPickUpRoseCuffs_10: 599208306
+      sheet_anim_CharacterEquipPickUpRoseCuffs_11: -88724824
+      sheet_anim_CharacterEquipPickUpRoseCuffs_12: -372608118
+      sheet_anim_CharacterEquipPickUpRoseCuffs_13: 1506586850
+      sheet_anim_CharacterEquipPickUpRoseCuffs_14: 747921940
+      sheet_anim_CharacterEquipPickUpRoseCuffs_15: 180019922
+      sheet_anim_CharacterEquipPickUpRoseCuffs_16: -1564535297
+      sheet_anim_CharacterEquipPickUpRoseCuffs_17: 628049892
+      sheet_anim_CharacterEquipPickUpRoseCuffs_18: 1874855574
+      sheet_anim_CharacterEquipPickUpRoseCuffs_19: -1506539152
+      sheet_anim_CharacterEquipPickUpRoseCuffs_2: 1454632833
+      sheet_anim_CharacterEquipPickUpRoseCuffs_20: 1009504866
+      sheet_anim_CharacterEquipPickUpRoseCuffs_3: 2138243561
+      sheet_anim_CharacterEquipPickUpRoseCuffs_4: -596637438
+      sheet_anim_CharacterEquipPickUpRoseCuffs_5: -2101345389
+      sheet_anim_CharacterEquipPickUpRoseCuffs_6: 1496525984
+      sheet_anim_CharacterEquipPickUpRoseCuffs_7: -616796013
+      sheet_anim_CharacterEquipPickUpRoseCuffs_8: -2069192595
+      sheet_anim_CharacterEquipPickUpRoseCuffs_9: -139266014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

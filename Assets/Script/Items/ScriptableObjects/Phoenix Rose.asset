@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfb1e25da4d2e84da503d6da59f11ba, type: 3}
+  m_Name: Phoenix Rose
+  m_EditorClassIdentifier: 
+  _pageNumber: 15
+  _plantName: Phoenix Rose
+  _plantScientificName: ???
+  _artwork: {fileID: 21300000, guid: 7029ccbd81975924389dde1abc3d7dcc, type: 3}
+  _almanacArtwork: {fileID: 21300000, guid: 314b73aed7c505c469cd6c5a9c9dd1db, type: 3}
+  _description: The petals of the Phoenix Rose seem to absorb immense amounts of
+    heat. Its natural habitat is the perfect place to do this, because lava is hot.
+    The petals themselves cannot survive outside of intense heat, they just sorta
+    turn to ash. However, when returned to the soil of the volcanic crater, a new
+    Phoenix Rose grows quickly from the ashes.
+  _prefab: {fileID: 3742562828143086406, guid: 28c3c0cbb234cfd46ae4bf36d020a8d6, type: 3}

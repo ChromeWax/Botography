@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note16
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "[Parts of the note have been redacted with black ink]\r\n\r\nIf
+    our suspicions are correct, this specimen is over 200 years old, yet shows no
+    signs of aging. Strangely, we have been unable to drill through the ice to take
+    proper measurements. It resists all attempts at melting or smashing. I believe
+    the ice on this part of the island has an unidentified temporal effect that\u2026\u2026\r"

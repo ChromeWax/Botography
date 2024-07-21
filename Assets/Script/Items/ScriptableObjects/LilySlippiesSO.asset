@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: LilySlippiesSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 5
+  _plantName: Lily Slippies
+  _plantScientificName: Victoria Boliviana
+  _artwork: {fileID: -1120998249, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _almanacArtwork: {fileID: -1048905202, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _plantSunlightLevel1: 2
+  _plantSoilType1: 1
+  _plantWaterPh1: 1
+  _plantSunlightLevel2: 2
+  _plantSoilType2: 3
+  _plantWaterPh2: 0
+  _description: "Despite their small surface area, these fashionable slippers can
+    support more weight than even Amazonian lily pads. Walking on water is a mythical
+    task referenced across many ancient cultures, but with a pair of these it\u2019s
+    actually possible!"
+  _plantUsageType: 3
+  _prefab: {fileID: 2992215339640502754, guid: 65c588860b9ffd945a60e0149975de55, type: 3}

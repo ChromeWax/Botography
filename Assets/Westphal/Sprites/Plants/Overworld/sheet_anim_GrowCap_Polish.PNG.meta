@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 9e1e41cbe2e9d3f4ea8d0aab2ecfb739
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 869
+        width: 90
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf4fa1f24a005f449aec8a35cba2c96
+      internalID: -1791703108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 869
+        width: 86
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db345a13050d41844840799b4467b7bf
+      internalID: -932110023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 869
+        width: 84
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48165b6ac70d4154cb56cc273f2a39f2
+      internalID: -1542432393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 869
+        width: 77
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5064741, y: 0.000055522305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12d8854ec0b1d48bb5d7d2ca5d0b1c
+      internalID: -1860965989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 869
+        width: 69
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53623056, y: 0.00012920429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9b8029ec94d147883d62af58b5382
+      internalID: 1556273832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 869
+        width: 67
+        height: 154
+      alignment: 9
+      pivot: {x: 0.4928352, y: 0.00012999696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47ff5a09a6f6b46a7511f2a58873b2
+      internalID: -1439358610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 698
+        width: 68
+        height: 154
+      alignment: 9
+      pivot: {x: 0.45630538, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b541c727509f54ca76a9ee32518ca5
+      internalID: 274581588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 698
+        width: 66
+        height: 152
+      alignment: 9
+      pivot: {x: 0.42515078, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e37b7079fa5b41a1e85ab07905b78
+      internalID: -1368549010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 698
+        width: 67
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3889684, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208f6589a2f1bd4eb4ababf72270f38
+      internalID: -585138214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 698
+        width: 68
+        height: 152
+      alignment: 9
+      pivot: {x: 0.3685285, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3183f69cd26346e4c8bb76157940f209
+      internalID: 866019089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 698
+        width: 69
+        height: 152
+      alignment: 9
+      pivot: {x: 0.31963757, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b3696e93964894f959f5b25108c881
+      internalID: -702800429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 698
+        width: 70
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3003697, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661083e327842e44aaf88a067f59db0c
+      internalID: 381505209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 529
+        width: 72
+        height: 152
+      alignment: 9
+      pivot: {x: 0.27811533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a255e12e7595449c7fb63d1058e92
+      internalID: 2022497998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 529
+        width: 72
+        height: 154
+      alignment: 9
+      pivot: {x: 0.2782669, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf30ce04a83f19444b62dc3b8e9c2516
+      internalID: -819129318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 529
+        width: 70
+        height: 154
+      alignment: 9
+      pivot: {x: 0.272552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a756dc0d8e875724594d8e207b5ad372
+      internalID: -1776750356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 529
+        width: 70
+        height: 154
+      alignment: 9
+      pivot: {x: 0.272552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3ecc476e554d4abeedae6e2795da2
+      internalID: 508393025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 529
+        width: 70
+        height: 154
+      alignment: 9
+      pivot: {x: 0.272552, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2185899f7d07a4baf3018562827b99
+      internalID: 840480028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 529
+        width: 69
+        height: 154
+      alignment: 9
+      pivot: {x: 0.27674755, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc91882107a0a74c8b5c648a0c23675
+      internalID: -278865104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 342
+        width: 69
+        height: 155
+      alignment: 9
+      pivot: {x: 0.2915319, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73935f934548e564ba7ec9996f33f8b7
+      internalID: -1028544082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 67
+        height: 154
+      alignment: 9
+      pivot: {x: 0.300106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54760c9cfa313d04783d3639af84f3be
+      internalID: -1076212121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 342
+        width: 68
+        height: 154
+      alignment: 9
+      pivot: {x: 0.32526264, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09298e5b533a8194cae179ef98764afb
+      internalID: -754871392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 69
+        height: 151
+      alignment: 9
+      pivot: {x: 0.32033285, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92feb76d86e5048ae630b70ab4fc79
+      internalID: -1138608910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 342
+        width: 72
+        height: 150
+      alignment: 9
+      pivot: {x: 0.34915924, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923778cffb226d4baa110f8eec5bc43
+      internalID: 232977033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 342
+        width: 74
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3664856, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9073782830384cb7dca03ff00e05a
+      internalID: -1431685051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 77
+        height: 149
+      alignment: 9
+      pivot: {x: 0.37840855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb02837afbb8f747896542cfee1dc0c
+      internalID: 1580945164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 181
+        width: 80
+        height: 149
+      alignment: 9
+      pivot: {x: 0.37650013, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d71585c3a99041b094b18f67ce6cc
+      internalID: 1110777830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 181
+        width: 81
+        height: 150
+      alignment: 9
+      pivot: {x: 0.396137, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc97fd50b838042990efc01cff9744
+      internalID: -137925913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 181
+        width: 80
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4137249, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c2f3e6c344f54e907ff703e3b9500
+      internalID: 553948859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 181
+        width: 78
+        height: 151
+      alignment: 9
+      pivot: {x: 0.436919, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1810893f1bcb0b3439ad4040ea24d5da
+      internalID: -2137118531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 181
+        width: 80
+        height: 151
+      alignment: 9
+      pivot: {x: 0.43839264, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c6bbbbc42a3a4b8312886cb8a6fab
+      internalID: 287937017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 84
+        height: 152
+      alignment: 9
+      pivot: {x: 0.45285717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd8d14df23b6a4a97bae4be1349446
+      internalID: -520626516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_GrowCap_Polish_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9
+        width: 87
+        height: 153
+      alignment: 9
+      pivot: {x: 0.48344824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31b65542d9e5647bbe738ca0e2eeb5
+      internalID: -1449712040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3073b2bc7c6d1ed418f584e0737413f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_GrowCap_Polish_0: -1791703108
+      sheet_anim_GrowCap_Polish_1: -932110023
+      sheet_anim_GrowCap_Polish_10: -702800429
+      sheet_anim_GrowCap_Polish_11: 381505209
+      sheet_anim_GrowCap_Polish_12: 2022497998
+      sheet_anim_GrowCap_Polish_13: -819129318
+      sheet_anim_GrowCap_Polish_14: -1776750356
+      sheet_anim_GrowCap_Polish_15: 508393025
+      sheet_anim_GrowCap_Polish_16: 840480028
+      sheet_anim_GrowCap_Polish_17: -278865104
+      sheet_anim_GrowCap_Polish_18: -1028544082
+      sheet_anim_GrowCap_Polish_19: -1076212121
+      sheet_anim_GrowCap_Polish_2: -1542432393
+      sheet_anim_GrowCap_Polish_20: -754871392
+      sheet_anim_GrowCap_Polish_21: -1138608910
+      sheet_anim_GrowCap_Polish_22: 232977033
+      sheet_anim_GrowCap_Polish_23: -1431685051
+      sheet_anim_GrowCap_Polish_24: 1580945164
+      sheet_anim_GrowCap_Polish_25: 1110777830
+      sheet_anim_GrowCap_Polish_26: -137925913
+      sheet_anim_GrowCap_Polish_27: 553948859
+      sheet_anim_GrowCap_Polish_28: -2137118531
+      sheet_anim_GrowCap_Polish_29: 287937017
+      sheet_anim_GrowCap_Polish_3: -1860965989
+      sheet_anim_GrowCap_Polish_30: -520626516
+      sheet_anim_GrowCap_Polish_31: -1449712040
+      sheet_anim_GrowCap_Polish_4: 1556273832
+      sheet_anim_GrowCap_Polish_5: -1439358610
+      sheet_anim_GrowCap_Polish_6: 274581588
+      sheet_anim_GrowCap_Polish_7: -1368549010
+      sheet_anim_GrowCap_Polish_8: -585138214
+      sheet_anim_GrowCap_Polish_9: 866019089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

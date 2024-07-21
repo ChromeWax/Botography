@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: ef7e4f12e8b79a54ba2ebdb7c5935ca7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_lily_slippies_f1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 152
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5355752, y: 0.03036318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0ca11bd4c8564698d84cc4254a689
+      internalID: -755603590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5377149, y: 0.04764861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bad8a2a60062c47b3713260eae41ac
+      internalID: 1482311411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 153
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.55620176, y: 0.033422936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429093b4c5dbdb4fb673aead4aca1a9
+      internalID: 2055861847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 153
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.56235456, y: 0.047116432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347bb302826b1664085299f947bef50a
+      internalID: -1699827629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 152
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6109504, y: 0.027965786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26826c3d3d409458d4194d2261f589
+      internalID: 1794164686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 152
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6169482, y: 0.033422936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d088ad21dcb0e84289872f88f9a092c
+      internalID: 1048626658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5696588, y: 0.06222118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9580dead6ef5f2349be3923f92af3fcd
+      internalID: 851094415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f8
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.56424415, y: 0.05240179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0319ac655f302d64f9f955c2499b2f0d
+      internalID: -208844590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f9
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5367111, y: 0.058755808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359083869566b8040a84e114aa71f22d
+      internalID: -42914412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f10
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5339944, y: 0.06544365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13381a459081545a1ec7633ea520a4
+      internalID: 813882006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 153
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5119929, y: 0.021929465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3920d4068c0645e47a14c414645995d1
+      internalID: 370338626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f12
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48812208, y: 0.06192616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea763850caf5a04f8570427d9e0f1c6
+      internalID: -556393831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f13
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 153
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4714275, y: 0.0457013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ddd282b92677448591a365ca53d0c
+      internalID: 241046980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f14
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 151
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46420676, y: 0.044406857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3cb3e29b9c79e4fa2d89b62d13d6c3
+      internalID: 553711116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46420622, y: 0.0293725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13225fd33c03544a53f3cc1c2bc1fd
+      internalID: -1902059097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 19
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4610999, y: 0.06961162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f903817443a83a4fa5500a8dae0561b
+      internalID: -1677983250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 18
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.47379038, y: 0.07980781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23a6b3e60e7fa4b846335c370885f5
+      internalID: 1152063085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 18
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5030906, y: 0.07826681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e7ee846c69b34e96466fae0129b8f
+      internalID: 340288390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_lily_slippies_f19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 18
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: 0.51611006, y: 0.077581875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a367c145e918fd48bb9f75200b11328
+      internalID: 281069953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 923a985a5e0bb7f45ac3dc2a58d8f7b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      anim_lily_slippies_f1: 1482311411
+      anim_lily_slippies_f10: 370338626
+      anim_lily_slippies_f11: -556393831
+      anim_lily_slippies_f12: -556393831
+      anim_lily_slippies_f13: 241046980
+      anim_lily_slippies_f14: 553711116
+      anim_lily_slippies_f15: -1902059097
+      anim_lily_slippies_f16: -1677983250
+      anim_lily_slippies_f17: 1152063085
+      anim_lily_slippies_f18: 340288390
+      anim_lily_slippies_f19: 281069953
+      anim_lily_slippies_f2: 2055861847
+      anim_lily_slippies_f3: -1699827629
+      anim_lily_slippies_f4: 1794164686
+      anim_lily_slippies_f5: 1048626658
+      anim_lily_slippies_f6: 851094415
+      anim_lily_slippies_f7: -208844590
+      anim_lily_slippies_f8: -42914412
+      anim_lily_slippies_f9: 813882006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

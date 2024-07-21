@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 13aad276347e8f94f8880158f81cdf4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_forest_trees_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 433
+        width: 302
+        height: 584
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 128, y: 292}
+        - {x: -99, y: 292}
+        - {x: -151, y: 215}
+        - {x: -151, y: -80.4599}
+        - {x: -55.569885, y: -90.526855}
+        - {x: -73.5914, y: -292}
+        - {x: 74.98923, y: -290.6559}
+        - {x: 54.349762, y: -123.27887}
+        - {x: 145.62366, y: -37.709656}
+        - {x: 151, y: 282}
+        - {x: 139, y: 290}
+      - - {x: 27, y: -61}
+        - {x: 27, y: -48}
+        - {x: 28, y: -47}
+        - {x: 28, y: -45}
+        - {x: 31, y: -42}
+        - {x: 33, y: -42}
+        - {x: 37, y: -38}
+        - {x: 37, y: -37}
+        - {x: 44, y: -32}
+        - {x: 45, y: -29}
+        - {x: 45, y: -22}
+        - {x: 44, y: -19}
+        - {x: 46, y: -17}
+        - {x: 47, y: -12}
+        - {x: 46, y: -9}
+        - {x: 49, y: -7}
+        - {x: 50, y: -8}
+        - {x: 53, y: -8}
+        - {x: 55, y: -7}
+        - {x: 56, y: -8}
+        - {x: 58, y: -8}
+        - {x: 59, y: -10}
+        - {x: 58, y: -11}
+        - {x: 58, y: -16}
+        - {x: 57, y: -17}
+        - {x: 57, y: -20}
+        - {x: 58, y: -21}
+        - {x: 59, y: -25}
+        - {x: 57, y: -27}
+        - {x: 57, y: -28}
+        - {x: 58, y: -29}
+        - {x: 58, y: -32}
+        - {x: 57, y: -34}
+        - {x: 59, y: -36}
+        - {x: 59, y: -38}
+        - {x: 57, y: -41}
+        - {x: 57, y: -43}
+        - {x: 59, y: -47}
+        - {x: 58, y: -48}
+        - {x: 58, y: -51}
+        - {x: 55, y: -56}
+        - {x: 55, y: -58}
+        - {x: 51, y: -61}
+        - {x: 45, y: -61}
+        - {x: 44, y: -62}
+        - {x: 32, y: -62}
+        - {x: 31, y: -63}
+        - {x: 28, y: -63}
+      - - {x: 88, y: -9}
+        - {x: 92, y: -9}
+        - {x: 94, y: -7}
+        - {x: 92, y: -14}
+        - {x: 91, y: -15}
+        - {x: 88, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbee8ede15c6cc48bf34a46af811a60
+      internalID: 1549374838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_trees_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 419
+        width: 367
+        height: 661
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 115.00726, y: 327.77515}
+        - {x: -122.5, y: 330.5}
+        - {x: -183.5, y: 288.5}
+        - {x: -182.20447, y: -62.878723}
+        - {x: -64.45764, y: -154.81207}
+        - {x: -73.28491, y: -322.4355}
+        - {x: 73.96234, y: -318.40323}
+        - {x: 69.252686, y: -108.3172}
+        - {x: 177.80096, y: -61.93982}
+        - {x: 181.91461, y: 237.9148}
+        - {x: 141.83337, y: 283.45703}
+      - - {x: -48.5, y: -92.5}
+        - {x: -49.5, y: -90.5}
+        - {x: -57.5, y: -85.5}
+        - {x: -57.5, y: -81.5}
+        - {x: -58.5, y: -80.5}
+        - {x: -60.5, y: -65.5}
+        - {x: -56.5, y: -68.5}
+        - {x: -54.5, y: -68.5}
+        - {x: -47.5, y: -66.5}
+        - {x: -43.5, y: -66.5}
+        - {x: -39.5, y: -65.5}
+        - {x: -37.5, y: -63.5}
+        - {x: -35.5, y: -66.5}
+        - {x: -30.5, y: -68.5}
+        - {x: -28.5, y: -69.5}
+        - {x: -28.5, y: -77.5}
+        - {x: -27.5, y: -86.5}
+        - {x: -28.5, y: -87.5}
+        - {x: -27.5, y: -92.5}
+        - {x: -28.5, y: -92.5}
+        - {x: -29.5, y: -93.5}
+        - {x: -42.5, y: -93.5}
+        - {x: -43.5, y: -92.5}
+      - - {x: 31.5, y: -20.5}
+        - {x: 32.5, y: -21.5}
+        - {x: 38.5, y: -22.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 41.5, y: -21.5}
+        - {x: 43.5, y: -19.5}
+        - {x: 44.5, y: -20.5}
+        - {x: 49.5, y: -20.5}
+        - {x: 50.5, y: -19.5}
+        - {x: 53.5, y: -19.5}
+        - {x: 58.5, y: -24.5}
+        - {x: 61.5, y: -24.5}
+        - {x: 62.5, y: -23.5}
+        - {x: 61.5, y: -26.5}
+        - {x: 60.5, y: -28.5}
+        - {x: 61.5, y: -30.5}
+        - {x: 59.5, y: -33.5}
+        - {x: 59.5, y: -35.5}
+        - {x: 60.5, y: -36.5}
+        - {x: 60.5, y: -38.5}
+        - {x: 59.5, y: -39.5}
+        - {x: 58.5, y: -50.5}
+        - {x: 55.5, y: -52.5}
+        - {x: 54.5, y: -53.5}
+        - {x: 50.5, y: -53.5}
+        - {x: 48.5, y: -55.5}
+        - {x: 43.5, y: -55.5}
+        - {x: 42.5, y: -56.5}
+        - {x: 34.5, y: -56.5}
+        - {x: 33.5, y: -57.5}
+        - {x: 32.5, y: -57.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6362984dab1fc14ba2707a9c3d78973
+      internalID: -473095345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_trees_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 436
+        width: 217
+        height: 501
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -88.5, y: 250.5}
+        - {x: -108.5, y: 223.5}
+        - {x: -108.5, y: -102.5}
+        - {x: -58.5, y: -250.5}
+        - {x: 36.5, y: -250.5}
+        - {x: 61.5, y: -241.5}
+        - {x: 108.5, y: -148.5}
+        - {x: 108.5, y: 250.5}
+      - - {x: -34.5, y: -63.5}
+        - {x: -35.5, y: -60.5}
+        - {x: -36.5, y: -59.5}
+        - {x: -35.5, y: -57.5}
+        - {x: -36.5, y: -56.5}
+        - {x: -36.5, y: -49.5}
+        - {x: -37.5, y: -48.5}
+        - {x: -37.5, y: -46.5}
+        - {x: -36.5, y: -46.5}
+        - {x: -33.5, y: -49.5}
+        - {x: -31.5, y: -49.5}
+        - {x: -31.5, y: -59.5}
+        - {x: -30.5, y: -60.5}
+        - {x: -30.5, y: -63.5}
+        - {x: -31.5, y: -64.5}
+        - {x: -31.5, y: -66.5}
+        - {x: -32.5, y: -66.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402a24cdb4cb76408e473fae1c8b485
+      internalID: -1511734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_trees_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 157
+        width: 377
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -178.5, y: 53.5}
+        - {x: -183.5, y: 46.5}
+        - {x: -188.5, y: 17.5}
+        - {x: -188.5, y: -53.5}
+        - {x: 188.5, y: -53.5}
+        - {x: 188.5, y: 3.5}
+        - {x: 104.5, y: 53.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5316940cb257541a91e356fee7a9d9
+      internalID: 1292716330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_trees_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 157
+        width: 513
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -69.5, y: 77.5}
+        - {x: -256.5, y: -13.5}
+        - {x: -256.5, y: -74.5}
+        - {x: -254.5, y: -77.5}
+        - {x: 256.5, y: -77.5}
+        - {x: 256.5, y: 24.5}
+        - {x: 181.5, y: 77.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03061068b336cb6408c510e2b0c4a990
+      internalID: -656310776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f41fc45916be5ee4f971d13bac5d56a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_forest_trees_0: 1549374838
+      sheet_forest_trees_1: -473095345
+      sheet_forest_trees_2: -1511734475
+      sheet_forest_trees_3: 1292716330
+      sheet_forest_trees_4: -656310776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: dd5b3762d43dac7448f64fea481b0787
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 584
+        width: 95
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc0f96cf55b6741bcfb1fcb8b96d6b
+      internalID: 539733919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 585
+        width: 90
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48380363, y: -0.009100499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a029223f4bbd94b4e97c5291d6b9202c
+      internalID: 1413834957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 584
+        width: 91
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4676923, y: -0.0005089711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ad115fe5e5d14e9c32826977daa4e
+      internalID: 76164826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 584
+        width: 92
+        height: 119
+      alignment: 9
+      pivot: {x: 0.42991638, y: -0.0019541509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adf5ffdad92e44199da6edfdc9d953
+      internalID: -881207091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 585
+        width: 92
+        height: 122
+      alignment: 9
+      pivot: {x: 0.38606992, y: -0.00963605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3c0dd767a9710488f35441440f0cc6
+      internalID: -1808261061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 398
+        width: 89
+        height: 124
+      alignment: 9
+      pivot: {x: 0.342647, y: -0.009388831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555794f5ab04164d88358e52bfa223a
+      internalID: 1777672362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 398
+        width: 89
+        height: 127
+      alignment: 9
+      pivot: {x: 0.30948973, y: -0.009995828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5845bd0df48631144991f2426e2f4c87
+      internalID: -1536817060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 398
+        width: 92
+        height: 126
+      alignment: 9
+      pivot: {x: 0.27793586, y: -0.009079222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb1139fa20190147bd0bdb8b38b429d
+      internalID: 1524410243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 398
+        width: 87
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3162491, y: -0.009357452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f680fe3b983e83459e6b10f545bf741
+      internalID: -920042441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 397
+        width: 86
+        height: 133
+      alignment: 9
+      pivot: {x: 0.3666325, y: -0.0011013863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dd0aafb8417b64daf7afd28852f441
+      internalID: 27515063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 213
+        width: 90
+        height: 121
+      alignment: 9
+      pivot: {x: 0.49464443, y: -0.009224632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19fe113a8e80f4b9397cd71d7b00eb
+      internalID: -1242899660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 212
+        width: 91
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4784261, y: -0.0005198392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f5bc4499138d458bb76dc3cc46c54
+      internalID: -1660837010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 212
+        width: 91
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59911f937a28d9746a06eece783d4f19
+      internalID: 1832151103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 212
+        width: 106
+        height: 146
+      alignment: 9
+      pivot: {x: 0.6557623, y: -0.00017077303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364b4550a5664c4187433cf6db660de
+      internalID: 1583654137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 212
+        width: 107
+        height: 161
+      alignment: 9
+      pivot: {x: 0.77081585, y: -0.0006227671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bcb38e0e1e9bc4eaaca4f7eb2bb3a2
+      internalID: -212616574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_15
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 213
+        width: 113
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7212805, y: -0.00831445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643e137b2cb3c442b2aa045ccf4353f
+      internalID: -294666781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 27
+        width: 105
+        height: 126
+      alignment: 9
+      pivot: {x: 0.7952847, y: -0.009665898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c179aac36fa821479c2c073c3c6ebf8
+      internalID: -12974396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 27
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.86213917, y: -0.01048095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7cb20756bed34dbde01346f4a2ded
+      internalID: 734452444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 27
+        width: 97
+        height: 110
+      alignment: 9
+      pivot: {x: 0.7373415, y: -0.00994058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35efcf7bddac1504d958ae5705b7c383
+      internalID: 658298659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 27
+        width: 96
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6204214, y: -0.0093316445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e3a36a2a2c584f91537e90a62e117
+      internalID: 1540551392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Muchroom_Polish_20
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 26
+        width: 95
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c49c4b06c986f46b2c9ae973a03882
+      internalID: -26185327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 68a0541f030d3d943bc6d7b48d419f6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_Muchroom_Polish_0: 539733919
+      sheet_anim_Muchroom_Polish_1: 1413834957
+      sheet_anim_Muchroom_Polish_10: -1242899660
+      sheet_anim_Muchroom_Polish_11: -1660837010
+      sheet_anim_Muchroom_Polish_12: 1832151103
+      sheet_anim_Muchroom_Polish_13: 1583654137
+      sheet_anim_Muchroom_Polish_14: -212616574
+      sheet_anim_Muchroom_Polish_15: -294666781
+      sheet_anim_Muchroom_Polish_16: -12974396
+      sheet_anim_Muchroom_Polish_17: 734452444
+      sheet_anim_Muchroom_Polish_18: 658298659
+      sheet_anim_Muchroom_Polish_19: 1540551392
+      sheet_anim_Muchroom_Polish_2: 76164826
+      sheet_anim_Muchroom_Polish_20: -26185327
+      sheet_anim_Muchroom_Polish_3: -881207091
+      sheet_anim_Muchroom_Polish_4: -1808261061
+      sheet_anim_Muchroom_Polish_5: 1777672362
+      sheet_anim_Muchroom_Polish_6: -1536817060
+      sheet_anim_Muchroom_Polish_7: 1524410243
+      sheet_anim_Muchroom_Polish_8: -920042441
+      sheet_anim_Muchroom_Polish_9: 27515063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

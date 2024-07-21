@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: NoteAlpha1
+  m_EditorClassIdentifier: 
+  _author: Unknown Person
+  _description: How did I get here? I'm surrounded by all sides with different regions,
+    I think my best course of action is through the swamp however.
+  _coord: 0, -1

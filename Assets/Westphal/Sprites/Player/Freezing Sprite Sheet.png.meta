@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: c7f2a4f5cf8377647819cf0635317e99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 197
+        width: 121
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bb34ffec645346bf8fcd7910de943
+      internalID: 346390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 197
+        width: 118
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84d1802c1bba9439f5659ff4e35115
+      internalID: 162683487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 197
+        width: 118
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1465dd245ac03b44acfb6f083f169cd
+      internalID: 861316785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 197
+        width: 124
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3381748aa8536ab4fa4a408fe1d365c8
+      internalID: -1915785792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 197
+        width: 124
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b6abc3088a3949ae0e2eeb3b69db9
+      internalID: 1342165329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 197
+        width: 125
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e849de1a8d508b04abf69bc52fa8fe0c
+      internalID: 1885169998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 197
+        width: 125
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d570af47a568474dbdefb7cdfc2fdd9
+      internalID: 1946895045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 197
+        width: 124
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce5b38232ef24b44ba4ea50ba90fda0
+      internalID: 1277445463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 124
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66462e8c9eef714da13760bb7bcd319
+      internalID: -1160341513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 124
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564651266db7d8349aa6ece71fe704f1
+      internalID: -954350773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 8
+        width: 124
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45857aced41cd944a596a2e84467ef4
+      internalID: 1382565169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 125
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5070662, y: -0.00028296185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6349aeafb61ba4c8629093eda4a864
+      internalID: -727648642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Freezing Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 8
+        width: 124
+        height: 186
+      alignment: 9
+      pivot: {x: 0.49315077, y: -0.000000043581892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae83bfbfdaf763479cacfe4f63344c3
+      internalID: -1388506287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb9eb2427b9ed504085fba38d5fab7df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Freezing Sprite Sheet_0: 1140757786
+      Freezing Sprite Sheet_1: 283839330
+      Freezing Sprite Sheet_10: -203871351
+      Freezing Sprite Sheet_11: -1268167173
+      Freezing Sprite Sheet_12: -1802547662
+      Freezing Sprite Sheet_13: 1476824034
+      Freezing Sprite Sheet_14: -1375510073
+      Freezing Sprite Sheet_15: -1914072164
+      Freezing Sprite Sheet_16: -168415796
+      Freezing Sprite Sheet_17: 410324200
+      Freezing Sprite Sheet_18: -65013892
+      Freezing Sprite Sheet_19: -1915785792
+      Freezing Sprite Sheet_2: 346390800
+      Freezing Sprite Sheet_20: -1644928612
+      Freezing Sprite Sheet_21: -651921094
+      Freezing Sprite Sheet_22: 1342165329
+      Freezing Sprite Sheet_23: 612053008
+      Freezing Sprite Sheet_24: 1885169998
+      Freezing Sprite Sheet_25: 1674881431
+      Freezing Sprite Sheet_26: 983170851
+      Freezing Sprite Sheet_27: 1946895045
+      Freezing Sprite Sheet_28: 1277445463
+      Freezing Sprite Sheet_29: -1160341513
+      Freezing Sprite Sheet_3: 162683487
+      Freezing Sprite Sheet_30: 432604247
+      Freezing Sprite Sheet_31: -794860975
+      Freezing Sprite Sheet_32: -228705319
+      Freezing Sprite Sheet_33: 784705741
+      Freezing Sprite Sheet_34: 2128855007
+      Freezing Sprite Sheet_35: 1931704974
+      Freezing Sprite Sheet_36: 510757066
+      Freezing Sprite Sheet_37: -397367831
+      Freezing Sprite Sheet_38: -84143227
+      Freezing Sprite Sheet_39: 134701080
+      Freezing Sprite Sheet_4: 861316785
+      Freezing Sprite Sheet_40: -843906464
+      Freezing Sprite Sheet_41: -954350773
+      Freezing Sprite Sheet_42: 1382565169
+      Freezing Sprite Sheet_43: -1881869427
+      Freezing Sprite Sheet_44: -727648642
+      Freezing Sprite Sheet_45: -1388506287
+      Freezing Sprite Sheet_46: -1700462639
+      Freezing Sprite Sheet_47: 1814519190
+      Freezing Sprite Sheet_5: 542048041
+      Freezing Sprite Sheet_6: 1836949488
+      Freezing Sprite Sheet_7: -1665288657
+      Freezing Sprite Sheet_8: -658426975
+      Freezing Sprite Sheet_9: 1351387620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

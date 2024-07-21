@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 4598ec68a97dd7845adff3c8ef351540
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 450
+        width: 94
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30450776f25dfbb49a53e6d6a88e171d
+      internalID: -1058332089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 452
+        width: 94
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5105107, y: -0.016689753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb7b177a628ec43a1ff5cc01ecf292
+      internalID: -247994289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 451
+        width: 88
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5113695, y: -0.008185069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f46538aae0e8f47b4d5c98c3c45344
+      internalID: -1202483386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 451
+        width: 76
+        height: 129
+      alignment: 9
+      pivot: {x: 0.539717, y: -0.0077069895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db843f762cfd049a042be6a07d5631
+      internalID: 2116477789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 453
+        width: 69
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5805624, y: -0.023530483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de66edc882084418e567bb70feca92
+      internalID: 90484036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 300
+        width: 66
+        height: 133
+      alignment: 9
+      pivot: {x: 0.57608, y: -0.014981377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd2c406627ee94bbbdce754ce51c72
+      internalID: 1616799369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 66
+        height: 132
+      alignment: 9
+      pivot: {x: 0.57709366, y: -0.03757708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2dd5a1131388949bf512b978595201
+      internalID: -2089356206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 303
+        width: 63
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5721067, y: -0.037608985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310e520f14fe314f9b722debe3c647e
+      internalID: -354960734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 305
+        width: 61
+        height: 129
+      alignment: 9
+      pivot: {x: 0.57371897, y: -0.054294083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01191e454019c947aa9de6d600304c9
+      internalID: 2018964563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 307
+        width: 60
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5815608, y: -0.0734423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d90ab4c17e386942a8f0591c9338a67
+      internalID: -1833375791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 156
+        width: 59
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5730896, y: -0.08800635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0827946cd3c22e40bcf92c7caff8070
+      internalID: -1736670229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 160
+        width: 57
+        height: 106
+      alignment: 9
+      pivot: {x: 0.57524216, y: -0.1316013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad1b8a9c5db6a046bbf914e4890a7fe
+      internalID: -1418660774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 61
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5715695, y: -0.11583525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d105e1238fb4c419ee0778afafd2ac
+      internalID: -1088007517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 155
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.58106244, y: -0.093593754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9daf9324076d8489dc5c1c7d881849
+      internalID: 1398031676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 148
+        width: 79
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5697543, y: -0.01850737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23edef35d2251448588bb90c11ed44
+      internalID: 545398181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_OsmosisLotus_Polish_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 94
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3211bc9bcca9b4fa2504fdc581d99b
+      internalID: 1693693298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4a798c78681d0a242b0cf2c322ca6c5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_OsmosisLotus_Polish_0: -1058332089
+      sheet_anim_OsmosisLotus_Polish_1: -247994289
+      sheet_anim_OsmosisLotus_Polish_10: -1736670229
+      sheet_anim_OsmosisLotus_Polish_11: -1418660774
+      sheet_anim_OsmosisLotus_Polish_12: -1088007517
+      sheet_anim_OsmosisLotus_Polish_13: 1398031676
+      sheet_anim_OsmosisLotus_Polish_14: 545398181
+      sheet_anim_OsmosisLotus_Polish_15: 1693693298
+      sheet_anim_OsmosisLotus_Polish_2: -1202483386
+      sheet_anim_OsmosisLotus_Polish_3: 2116477789
+      sheet_anim_OsmosisLotus_Polish_4: 90484036
+      sheet_anim_OsmosisLotus_Polish_5: 1616799369
+      sheet_anim_OsmosisLotus_Polish_6: -2089356206
+      sheet_anim_OsmosisLotus_Polish_7: -354960734
+      sheet_anim_OsmosisLotus_Polish_8: 2018964563
+      sheet_anim_OsmosisLotus_Polish_9: -1833375791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

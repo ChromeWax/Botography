@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b901088ce4ec60499754192bec25a59, type: 3}
+  m_Name: Menu Close
+  m_EditorClassIdentifier: 
+  sfxName: menu close
+  sfxAudio: {fileID: 8300000, guid: c6ced1009d4ce874cbb29257293b4025, type: 3}

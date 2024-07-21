@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note1.5
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "My peers on this expedition seem to believe that there is a discovery
+    of significant worth on this island, waiting to be uncovered. I think they\u2019re
+    after a white whale. Fascinatingly the white whale, also known as the Beluga
+    whale is a member of the Delphinapterus family\u2026..\r"

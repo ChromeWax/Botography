@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note6
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "[A half burned scrap of paper lays in the ash]\r\n\r\nThe  smell
+    of sulfur has been getting worse by the day. I told the higher ups that my men
+    can\u2019t keep working like this, we\u2019re on our third batch of pickaxes!
+    They\u2019re rusting faster than they should, our tools are falling apart under
+    their own weight. My guys aren\u2019t pansies and neither am I, but if they don\u2019t
+    tell us what we\u2019re digging for, I\u2019ll\u2026\r\n\r\n[The note is burned
+    past legibility]\r"

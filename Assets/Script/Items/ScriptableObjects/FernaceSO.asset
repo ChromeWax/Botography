@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: FernaceSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 1
+  _plantName: Fernace
+  _plantScientificName: Juncus lucius
+  _artwork: {fileID: 1678114021, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _almanacArtwork: {fileID: -1772763825, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _plantSunlightLevel1: 4
+  _plantSoilType1: 3
+  _plantWaterPh1: 1
+  _plantSunlightLevel2: 4
+  _plantSoilType2: 2
+  _plantWaterPh2: 0
+  _description: "The leaves if this plant rub together so fast, it\u2019s almost
+    impossible to see. You\u2019d hardly know if it weren\u2019t for the heat it
+    gives off! There\u2019s a reason I gave it the name that I did. Like other ferns
+    it\u2019s actually edible, albeit very spicy."
+  _plantUsageType: 5
+  _prefab: {fileID: 4372887255516042252, guid: 7634d0658109f0a45b01252f7fd6c6be, type: 3}

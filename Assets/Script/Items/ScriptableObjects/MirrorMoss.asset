@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcfb1e25da4d2e84da503d6da59f11ba, type: 3}
+  m_Name: MirrorMoss
+  m_EditorClassIdentifier: 
+  _pageNumber: 13
+  _plantName: Mirror Moss
+  _plantScientificName: ???
+  _artwork: {fileID: 1800781118, guid: 2642600d377a5ca49ac61fdd4dc8a931, type: 3}
+  _almanacArtwork: {fileID: 1842109165, guid: 2642600d377a5ca49ac61fdd4dc8a931, type: 3}
+  _description: "The mirror surface of this organism reflects all attempts at probing
+    I\u2019ve tried. Visual inspection doesn\u2019t work too well, as I\u2019m just
+    looking right back at myself. The longer I stare at myself, the weirder things
+    get! Sometimes the reflection looks off\u2026 like it\u2019s me from a different
+    universe. Other times, my reflection seems to lag behind for a second. I suspect
+    that the Mirror Moss had a kind of temporal effect, like an organic time machine!"
+  _prefab: {fileID: 294933292137788847, guid: 2c264fc07dbac18448821a73d624f50c, type: 3}

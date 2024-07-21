@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: db7a94f3f5f1499489dadb0981b958e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1082
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5565929aeb755714e8d82f47b5d98602
+      internalID: -489989614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1082
+        width: 48
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372b0cedd663c94291d7262188a9984
+      internalID: -76738870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1082
+        width: 56
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2d3162a77a7b4797ce2b0da8f5ea7
+      internalID: 935007042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1083
+        width: 54
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bad1312abf2e448ac315e7f13f3d7
+      internalID: 360816490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1083
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdac865c09a26849a30c0900d06eee5
+      internalID: -1638367947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 963
+        width: 58
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79ba970cde6fa43af1bd8546a480dc
+      internalID: 1200916502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 963
+        width: 86
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46c90c68b2ea734288cf6902750e788
+      internalID: 1581860065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 963
+        width: 56
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23980e84434e984d8a676fd8a362ed0
+      internalID: 367928431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 963
+        width: 61
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f380ed9aec85334bbdb4d5cc66d7106
+      internalID: -1076718285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 963
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e317ab62172c48b24a61588e089a5
+      internalID: 2126064264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 868
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e825055cd27c3d54b93abf4237da53ae
+      internalID: 1638536967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 867
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d162ba1fdd3048a7b76bfdf4d0b78
+      internalID: 1807199758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 726
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e20cbdb4d52f48b9f88ecee4db232
+      internalID: -1665069786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 727
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899739b111c8fb148a9e20a957ac4af4
+      internalID: -1214820756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 724
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381985250449f3469a99034fbea73bb
+      internalID: 23982431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 724
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4890bc59b825b499d0b3e49c3ef38f
+      internalID: 499944802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_23
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 724
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfcc433b4b35e74cb00a29c5c0fbd78
+      internalID: -663376781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 723
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213f037060ee2b4f92d39ce4524cdc7
+      internalID: 1463206156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 476
+        width: 30
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -30.5}
+        - {x: -9, y: -72.5}
+        - {x: 15, y: -72.5}
+        - {x: 12, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb9f56f7a94b44aad237bc94ee40d9
+      internalID: -1007636152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 477
+        width: 242
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -121, y: -46}
+        - {x: -121, y: -58}
+        - {x: 121, y: -58}
+        - {x: 121, y: -45.935974}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3838ff39f4fc41847a96ae63e2995
+      internalID: 694353518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 495
+        width: 124
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -62, y: 6}
+        - {x: -62, y: -2}
+        - {x: 53, y: -111}
+        - {x: 60, y: -111}
+        - {x: 60, y: -104}
+        - {x: -55, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c0f169132ead46a402cb9512247ad
+      internalID: 1215202393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_28
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 479
+        width: 14
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 100}
+        - {x: -7, y: -122}
+        - {x: 7, y: -122}
+        - {x: 7, y: 100}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4ded58297a6b43a65d68786145418
+      internalID: 1417894683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 289
+        width: 95
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d576d83d77ae542a4d883c87dab4b6
+      internalID: -674218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_forest_fence_shrooms_critters_30
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 242
+        width: 123
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 53.5, y: 5.5}
+        - {x: -61.5, y: -102.5}
+        - {x: -61.5, y: -112.5}
+        - {x: -53.5, y: -112.5}
+        - {x: 61.5, y: -2.5}
+        - {x: 61.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157da81fba1ca70488dba20b199e33ce
+      internalID: 371576111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cac64b06b1084c429191978f309fbfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_forest_fence_shrooms_critters_0: -2036631669
+      sheet_forest_fence_shrooms_critters_1: -150171769
+      sheet_forest_fence_shrooms_critters_10: 1581860065
+      sheet_forest_fence_shrooms_critters_11: 367928431
+      sheet_forest_fence_shrooms_critters_12: -1076718285
+      sheet_forest_fence_shrooms_critters_13: 2126064264
+      sheet_forest_fence_shrooms_critters_14: 1944010529
+      sheet_forest_fence_shrooms_critters_15: -759664176
+      sheet_forest_fence_shrooms_critters_16: 1638536967
+      sheet_forest_fence_shrooms_critters_17: 1807199758
+      sheet_forest_fence_shrooms_critters_18: -1078848360
+      sheet_forest_fence_shrooms_critters_19: -1665069786
+      sheet_forest_fence_shrooms_critters_2: -489989614
+      sheet_forest_fence_shrooms_critters_20: -1214820756
+      sheet_forest_fence_shrooms_critters_21: 23982431
+      sheet_forest_fence_shrooms_critters_22: 499944802
+      sheet_forest_fence_shrooms_critters_23: -663376781
+      sheet_forest_fence_shrooms_critters_24: 1463206156
+      sheet_forest_fence_shrooms_critters_25: -1007636152
+      sheet_forest_fence_shrooms_critters_26: 694353518
+      sheet_forest_fence_shrooms_critters_27: 1215202393
+      sheet_forest_fence_shrooms_critters_28: 1417894683
+      sheet_forest_fence_shrooms_critters_29: -674218768
+      sheet_forest_fence_shrooms_critters_3: -76738870
+      sheet_forest_fence_shrooms_critters_30: 371576111
+      sheet_forest_fence_shrooms_critters_4: 935007042
+      sheet_forest_fence_shrooms_critters_5: 360816490
+      sheet_forest_fence_shrooms_critters_6: -1638367947
+      sheet_forest_fence_shrooms_critters_7: -565123500
+      sheet_forest_fence_shrooms_critters_8: -1090345220
+      sheet_forest_fence_shrooms_critters_9: 1200916502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

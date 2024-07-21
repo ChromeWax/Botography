@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 3fa02ff757ffe164b9c0023432887d0e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79cac73330e6dc4c97eaf8005ff3ddd
+      internalID: 507431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74925a71ba36a2e408ad3d6ea28ee93a
+      internalID: -548264038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b83e59b9ffc845b905ebb977d3106
+      internalID: -42483579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204303167a1c3d488d833a2bae4ed84
+      internalID: 616215046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 360
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5462185, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32031d7d56337ca4997f93997d390c0f
+      internalID: 2029704080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 360
+        width: 119
+        height: 118
+      alignment: 9
+      pivot: {x: 0.53781515, y: 0.042372882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53bbd0dad487b4781edc52eb835697
+      internalID: -1298707324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53781515, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de148f090a6b00439bdb0d8c634a8d3
+      internalID: 1471888711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53781515, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c10c40c8a7c8a49b67d273cb752d10
+      internalID: -1763348787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56371227e905fdc4390c731570c49e13
+      internalID: 1195423143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52100843, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc344aafa2e043042aeacb1f6963cbb3
+      internalID: 1071336157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f8eed7f414f044a77380b647660d4
+      internalID: 496551643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 240
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f7c5185cdd22448bd978aab9181581
+      internalID: 1176636845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb1c73be9bb834ab43737d0d6cfa32
+      internalID: -526522470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4789916, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6fc92a67e9c5d42b22822d94cadacd
+      internalID: 1796277580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.46218488, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96b86f4834cb244a917d14e704e2922
+      internalID: 733513514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4789916, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066934f16a364b64ab54d9b42f487b56
+      internalID: 1863231574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f485c481f6384f9b255ccb78d5658
+      internalID: -1808599432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3af32f0b4d46347b7559ad51b66b03
+      internalID: 1284281408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7d42d64640c2408fed450ceffbcbe
+      internalID: -191809471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LilySlippiesSpritesAnimPolished_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 119
+        height: 120
+      alignment: 9
+      pivot: {x: 0.48739496, y: 0.058333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1ef7093596424d830cea147c84592
+      internalID: -613828130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 78b5f519b92d9664e84cb342c62a023d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LilySlippiesSpritesAnimPolished_0: 507431181
+      LilySlippiesSpritesAnimPolished_1: -548264038
+      LilySlippiesSpritesAnimPolished_10: 496551643
+      LilySlippiesSpritesAnimPolished_11: 1176636845
+      LilySlippiesSpritesAnimPolished_12: -526522470
+      LilySlippiesSpritesAnimPolished_13: 1796277580
+      LilySlippiesSpritesAnimPolished_14: 733513514
+      LilySlippiesSpritesAnimPolished_15: 1863231574
+      LilySlippiesSpritesAnimPolished_16: -1808599432
+      LilySlippiesSpritesAnimPolished_17: 1284281408
+      LilySlippiesSpritesAnimPolished_18: -191809471
+      LilySlippiesSpritesAnimPolished_19: -613828130
+      LilySlippiesSpritesAnimPolished_2: -42483579
+      LilySlippiesSpritesAnimPolished_3: 616215046
+      LilySlippiesSpritesAnimPolished_4: 2029704080
+      LilySlippiesSpritesAnimPolished_5: -1298707324
+      LilySlippiesSpritesAnimPolished_6: 1471888711
+      LilySlippiesSpritesAnimPolished_7: -1763348787
+      LilySlippiesSpritesAnimPolished_8: 1195423143
+      LilySlippiesSpritesAnimPolished_9: 1071336157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

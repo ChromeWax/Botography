@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 12ef530c9019fbe489edb4747829a5c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 961
+        width: 123
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034fffe5209e064fa61ba566ea918e7
+      internalID: -549582556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 961
+        width: 124
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5123719, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f51cc1f17812e4c9a4fc85a03ca0ee
+      internalID: -2011536297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 961
+        width: 126
+        height: 199
+      alignment: 9
+      pivot: {x: 0.51266235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46163f75b74b79d44b3a085a24470115
+      internalID: 11943273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 961
+        width: 129
+        height: 194
+      alignment: 9
+      pivot: {x: 0.52378476, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975915c8c1df9c42b386cd42a56af7f
+      internalID: -2076673375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 961
+        width: 131
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5379424, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5728a65906ead314998e3cfee4226b30
+      internalID: 1907290298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 718
+        width: 136
+        height: 174
+      alignment: 9
+      pivot: {x: 0.56066465, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626fa639cbc6c0f46996bc651ae1671f
+      internalID: -119055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 718
+        width: 140
+        height: 169
+      alignment: 9
+      pivot: {x: 0.58056444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03d5980de292c41af572eda0d695a5
+      internalID: -450526140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 718
+        width: 145
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5878696, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90123748b5d8c541af1c8627376d381
+      internalID: 1151479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 718
+        width: 145
+        height: 161
+      alignment: 9
+      pivot: {x: 0.60155493, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698d10a3a6c1f94faad63a663f4793c
+      internalID: 1783249439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 718
+        width: 149
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6192901, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839862ac143129641bdcb820b0b20b20
+      internalID: 766749039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 475
+        width: 153
+        height: 156
+      alignment: 9
+      pivot: {x: 0.62902015, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2b5d3934c3f64cbc96cf94e46e920
+      internalID: -166741239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 475
+        width: 149
+        height: 151
+      alignment: 9
+      pivot: {x: 0.62614655, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e11efa3b25cb49ab8975dfc313c04
+      internalID: -630722642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 475
+        width: 148
+        height: 150
+      alignment: 9
+      pivot: {x: 0.6370367, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09f4f6c4f0f8042b0de5d709e27b4e
+      internalID: 437148702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 475
+        width: 147
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6348582, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f220cecfa6fe19046aab0e7da7ed311f
+      internalID: -872334259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 475
+        width: 147
+        height: 158
+      alignment: 9
+      pivot: {x: 0.63524806, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc635c927ddb604db4d25f101e87b0b
+      internalID: -1750758514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 144
+        height: 162
+      alignment: 9
+      pivot: {x: 0.6339602, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d904770ffb87547a7910d2891229ff
+      internalID: 1703632538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 250
+        width: 142
+        height: 167
+      alignment: 9
+      pivot: {x: 0.62184745, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e07b5b54f78b43a100f5be83d96ce
+      internalID: 789132717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 250
+        width: 134
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5835166, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310c20b22b4bea64184849d5c45f72bd
+      internalID: -259428532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 250
+        width: 132
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5769732, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986cf9144425aa48aafdb941eb8e8d2
+      internalID: -90181881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 250
+        width: 131
+        height: 176
+      alignment: 9
+      pivot: {x: 0.56575817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916c3abcff0dfd34ba0aa0b1d45b6797
+      internalID: -1645656504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 128
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5554364, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a61aa3bec0084685f124603dd5237
+      internalID: -433916855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 127
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54431295, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68872a028dd75c2449aa75e6713c35c9
+      internalID: -884121835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 15
+        width: 126
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5320418, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaac61291194694e9ffd961d7d9a17c
+      internalID: 1738864673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_Pipevine_ClosedIdle_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 15
+        width: 125
+        height: 196
+      alignment: 9
+      pivot: {x: 0.52104294, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1402dac4801c04aaafe8a6e9759695
+      internalID: 411716531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2dfd865742ec874e95a40cdd28dbcb0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_Pipevine_ClosedIdle_0: -549582556
+      sheet_anim_Pipevine_ClosedIdle_1: -2011536297
+      sheet_anim_Pipevine_ClosedIdle_10: -166741239
+      sheet_anim_Pipevine_ClosedIdle_11: -630722642
+      sheet_anim_Pipevine_ClosedIdle_12: 437148702
+      sheet_anim_Pipevine_ClosedIdle_13: -872334259
+      sheet_anim_Pipevine_ClosedIdle_14: -1750758514
+      sheet_anim_Pipevine_ClosedIdle_15: 1703632538
+      sheet_anim_Pipevine_ClosedIdle_16: 789132717
+      sheet_anim_Pipevine_ClosedIdle_17: -259428532
+      sheet_anim_Pipevine_ClosedIdle_18: -90181881
+      sheet_anim_Pipevine_ClosedIdle_19: -1645656504
+      sheet_anim_Pipevine_ClosedIdle_2: 11943273
+      sheet_anim_Pipevine_ClosedIdle_20: -433916855
+      sheet_anim_Pipevine_ClosedIdle_21: -884121835
+      sheet_anim_Pipevine_ClosedIdle_22: 1738864673
+      sheet_anim_Pipevine_ClosedIdle_23: 411716531
+      sheet_anim_Pipevine_ClosedIdle_3: -2076673375
+      sheet_anim_Pipevine_ClosedIdle_4: 1907290298
+      sheet_anim_Pipevine_ClosedIdle_5: -119055571
+      sheet_anim_Pipevine_ClosedIdle_6: -450526140
+      sheet_anim_Pipevine_ClosedIdle_7: 1151479120
+      sheet_anim_Pipevine_ClosedIdle_8: 1783249439
+      sheet_anim_Pipevine_ClosedIdle_9: 766749039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

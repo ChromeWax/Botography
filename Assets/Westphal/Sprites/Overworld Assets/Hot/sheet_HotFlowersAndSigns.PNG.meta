@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: e0408d8470b6310489c90152dd14bd8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hot_MediumPointyRock
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 109
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7.5, y: 70}
+        - {x: -54.5, y: 22}
+        - {x: -54.5, y: -70}
+        - {x: 52.5, y: -64}
+        - {x: 54.5, y: -28}
+        - {x: 21.5, y: 62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bfe9f6c77345542842699bfd3bf515
+      internalID: -831270989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_CoolLava
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 679
+        width: 382
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 127.64447, y: 35.411682}
+        - {x: 16.347198, y: 53}
+        - {x: -83.467865, y: 53}
+        - {x: -133.89655, y: 37.434875}
+        - {x: -186.70064, y: 2.284912}
+        - {x: -191, y: -27.985535}
+        - {x: -176.44405, y: -43.223755}
+        - {x: -109.87744, y: -47.214233}
+        - {x: -62.145844, y: -51.66504}
+        - {x: -45.2323, y: -44.932556}
+        - {x: -28.605774, y: -52.29883}
+        - {x: 26.92807, y: -52.05902}
+        - {x: 49.449463, y: -36.58423}
+        - {x: 139.40768, y: -42.447083}
+        - {x: 189.78015, y: -32.748352}
+        - {x: 189.43658, y: -20.207886}
+        - {x: 161.96875, y: 10.696594}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e8dff32376e14bbd3aab49b219095
+      internalID: -1289873356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_HotLava
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 685
+        width: 382
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 127.64447, y: 35.411682}
+        - {x: 16.347198, y: 53}
+        - {x: -83.467865, y: 53}
+        - {x: -133.89655, y: 37.434875}
+        - {x: -186.70064, y: 2.284912}
+        - {x: -191, y: -27.985535}
+        - {x: -176.44405, y: -43.223755}
+        - {x: -109.87744, y: -47.214233}
+        - {x: -62.145844, y: -51.66504}
+        - {x: -45.2323, y: -44.932556}
+        - {x: -28.605774, y: -52.29883}
+        - {x: 26.92807, y: -52.05902}
+        - {x: 49.449463, y: -36.58423}
+        - {x: 139.40768, y: -42.447083}
+        - {x: 189.78015, y: -32.748352}
+        - {x: 189.43658, y: -20.207886}
+        - {x: 161.96875, y: 10.696594}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55bd7ee73f3f64dbc3c4c80dc6fded
+      internalID: -1661538423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_Fossil
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 551
+        width: 116
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17.707901, y: 45.5}
+        - {x: -37.918938, y: 35.33789}
+        - {x: -46.436596, y: 11.003174}
+        - {x: -56.045746, y: 1.7993774}
+        - {x: -58, y: -28.038513}
+        - {x: -36.066593, y: -45.5}
+        - {x: 26.719368, y: -42.908936}
+        - {x: 54.482346, y: -35.72876}
+        - {x: 58, y: 11.04895}
+        - {x: 26.31372, y: 20.010986}
+        - {x: 7.9855347, y: 44.327393}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1701744d25634bb32263b582bc439
+      internalID: 1082320364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_FlatFossil
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 562
+        width: 92
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46, y: -13.045715}
+        - {x: -27.883621, y: -22}
+        - {x: 35, y: -22}
+        - {x: 46, y: -20}
+        - {x: 46, y: -6.0353394}
+        - {x: 31.309814, y: 9.573853}
+        - {x: 11.528091, y: 22}
+        - {x: -19.619583, y: 22}
+        - {x: -44.436584, y: 6.8274536}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea793980079d5d4cac6bc4ea3763198
+      internalID: 1116389348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_speckledRock
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 563
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.556152, y: 33}
+        - {x: -38.028076, y: 21.218262}
+        - {x: -61.5, y: -3.989563}
+        - {x: -61.5, y: -14.070618}
+        - {x: -54.46469, y: -27.137207}
+        - {x: -33.41107, y: -33}
+        - {x: 30.231934, y: -32.21826}
+        - {x: 58.211273, y: -14.727173}
+        - {x: 61.5, y: 4.5842896}
+        - {x: 39.292114, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450bb71ad0033f7408b8119d2b3d1417
+      internalID: 1588693763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_PorousRock
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 561
+        width: 123
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20.556152, y: 33}
+        - {x: -38.028076, y: 21.218262}
+        - {x: -61.5, y: -3.989563}
+        - {x: -61.5, y: -14.070618}
+        - {x: -54.46469, y: -27.137207}
+        - {x: -33.41107, y: -33}
+        - {x: 30.231934, y: -32.21826}
+        - {x: 58.211273, y: -14.727173}
+        - {x: 61.5, y: 4.5842896}
+        - {x: 39.292114, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21f9c54a957da41b8b7a90215ae702
+      internalID: 1697131581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_PickAxe
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 425
+        width: 127
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.7587585, y: 35.5}
+        - {x: -29.507763, y: 26.708954}
+        - {x: -37.191326, y: 14.812622}
+        - {x: -2.3768768, y: 15.334442}
+        - {x: -63.5, y: -22.943542}
+        - {x: -63.5, y: -35.5}
+        - {x: -54.397545, y: -35.5}
+        - {x: 17.60115, y: 13.736023}
+        - {x: 63.5, y: -10.432587}
+        - {x: 58.94876, y: 13.431274}
+        - {x: 24.432564, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7461eb8e7a28d8a42a7d524b137df9a6
+      internalID: 905980519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_WarningSign
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 259
+        width: 94
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.1782227, y: 136}
+        - {x: -47, y: 52.635864}
+        - {x: -47, y: 36.095398}
+        - {x: -7.7253265, y: 35.302948}
+        - {x: -10.615158, y: -136}
+        - {x: 2.6893616, y: -136}
+        - {x: 6.288452, y: 35.621277}
+        - {x: 47, y: 35.81192}
+        - {x: 47, y: 52.65033}
+        - {x: 8.613846, y: 136}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021ae7af94d12654dac51cc262083c45
+      internalID: -200532802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_RustedWarningSign
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 258
+        width: 94
+        height: 272
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.1782227, y: 136}
+        - {x: -47, y: 52.635864}
+        - {x: -47, y: 36.095398}
+        - {x: -7.7253265, y: 35.302948}
+        - {x: -10.615158, y: -136}
+        - {x: 2.6893616, y: -136}
+        - {x: 6.288452, y: 35.621277}
+        - {x: 47, y: 35.81192}
+        - {x: 47, y: 52.65033}
+        - {x: 8.613846, y: 136}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c2f9faaaf3074a91e8e7d7ff6a18e
+      internalID: 2006921112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_lamp
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 449
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.8245544, y: 35.5}
+        - {x: -20.5, y: 22.535095}
+        - {x: -20.5, y: -25.5}
+        - {x: -11.5, y: -35.5}
+        - {x: 13.5, y: -35.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 20.5, y: 19.925446}
+        - {x: 3.7894592, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb3cf4120db84a4aaf3346454daff13
+      internalID: 590813435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_OrangeHardHat
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 458
+        width: 85
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.7470703, y: 35.5}
+        - {x: -29.911743, y: 10.273621}
+        - {x: -40.69922, y: -12.754913}
+        - {x: -42.5, y: -25.595703}
+        - {x: -28.697876, y: -35.5}
+        - {x: -3.4082642, y: -35.5}
+        - {x: 22.245117, y: -22.695312}
+        - {x: 42.5, y: -9.045868}
+        - {x: 42.5, y: 19.5}
+        - {x: 20.743164, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a8de0addd962949aad3d4988a18480
+      internalID: -1847582960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_RustedPickAxe
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 299
+        width: 127
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.7587585, y: 35.5}
+        - {x: -29.507763, y: 26.708954}
+        - {x: -37.191326, y: 14.812622}
+        - {x: -2.3768768, y: 15.334442}
+        - {x: -63.5, y: -22.943542}
+        - {x: -63.5, y: -35.5}
+        - {x: -54.397545, y: -35.5}
+        - {x: 17.60115, y: 13.736023}
+        - {x: 63.5, y: -10.432587}
+        - {x: 58.94876, y: 13.431274}
+        - {x: 24.432564, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32636343929e84d9ebb53f47774594
+      internalID: -79076559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_OrangeLamp
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 353
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.8245544, y: 35.5}
+        - {x: -20.5, y: 22.535095}
+        - {x: -20.5, y: -25.5}
+        - {x: -11.5, y: -35.5}
+        - {x: 13.5, y: -35.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 20.5, y: 19.925446}
+        - {x: 3.7894592, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b827bf1701f3fa4f9d826a2fdce9fb7
+      internalID: -1337757331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_GrayHardHat
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 319
+        width: 85
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.7470703, y: 35.5}
+        - {x: -29.911743, y: 10.273621}
+        - {x: -40.69922, y: -12.754913}
+        - {x: -42.5, y: -25.595703}
+        - {x: -28.697876, y: -35.5}
+        - {x: -3.4082642, y: -35.5}
+        - {x: 22.245117, y: -22.695312}
+        - {x: 42.5, y: -9.045868}
+        - {x: 42.5, y: 19.5}
+        - {x: 20.743164, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5344d5bbe9db8474d8b64eea7ecca633
+      internalID: 912826097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_rustedLamp
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 259
+        width: 41
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.8245544, y: 35.5}
+        - {x: -20.5, y: 22.535095}
+        - {x: -20.5, y: -25.5}
+        - {x: -11.5, y: -35.5}
+        - {x: 13.5, y: -35.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 20.5, y: 19.925446}
+        - {x: 3.7894592, y: 35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dab3e2b12f1a38428b4eb0b3107da70
+      internalID: 1313678024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_SpikyFlower
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 87
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -43.5, y: -15.446838}
+        - {x: -27.557404, y: -15.047348}
+        - {x: -8.465469, y: -26.140198}
+        - {x: -4.0397186, y: -59.5}
+        - {x: 8.61499, y: -59.5}
+        - {x: 10.286957, y: -27.219788}
+        - {x: 21.508652, y: -10.057343}
+        - {x: 43.5, y: -14.097931}
+        - {x: 43.5, y: 1.9333801}
+        - {x: 22.968933, y: 4.986252}
+        - {x: 25.210571, y: 59.5}
+        - {x: 1.4115906, y: 59.5}
+        - {x: -25.074413, y: -0.53842163}
+        - {x: -43.5, y: -8.774506}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d365f630436da94a923570b555a80ed
+      internalID: 564590542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_TinySawFlower
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 131
+        width: 74
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 37, y: 18}
+        - {x: 20.539719, y: 31}
+        - {x: -11.880737, y: 31}
+        - {x: -37, y: 17.681305}
+        - {x: -37, y: -5.9205627}
+        - {x: -23.371552, y: -21.221344}
+        - {x: -5.327347, y: -20.398148}
+        - {x: -3.017624, y: -31}
+        - {x: 6, y: -31}
+        - {x: 5.831833, y: -22.663666}
+        - {x: 27.070786, y: -16.973404}
+        - {x: 37, y: -0.088394165}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ae0a61d13cf146a74af52af0788cd
+      internalID: -501843501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_SawFlower
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 78
+        width: 102
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 51, y: 28.028244}
+        - {x: 26.361115, y: 11.064362}
+        - {x: 39.882263, y: 39.24292}
+        - {x: 21.148438, y: 58.5}
+        - {x: -23.991028, y: 58.5}
+        - {x: -41.1416, y: 40.80974}
+        - {x: -36.21237, y: 19.190262}
+        - {x: -24, y: 2.0220947}
+        - {x: -51, y: 17.880524}
+        - {x: -51, y: 11.756561}
+        - {x: -38.30078, y: -20.04869}
+        - {x: -6.537567, y: -28.405945}
+        - {x: -5.035248, y: -58.5}
+        - {x: 5.7344666, y: -58.5}
+        - {x: 6.12796, y: -21.725693}
+        - {x: 29.937866, y: -15.473419}
+        - {x: 51, y: 20.402298}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195206611bf00b49bcf22b38c49018b
+      internalID: 533801419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hot_CoolLava: -1289873356
+      hot_FlatFossil: 1116389348
+      hot_Fossil: 1082320364
+      hot_GrayHardHat: 912826097
+      hot_HotLava: -1661538423
+      hot_MediumPointyRock: -831270989
+      hot_OrangeHardHat: -1847582960
+      hot_OrangeLamp: -1337757331
+      hot_PickAxe: 905980519
+      hot_PorousRock: 1697131581
+      hot_RustedPickAxe: -79076559
+      hot_RustedWarningSign: 2006921112
+      hot_SawFlower: 533801419
+      hot_SpikyFlower: 564590542
+      hot_TinySawFlower: -501843501
+      hot_WarningSign: -200532802
+      hot_lamp: 590813435
+      hot_rustedLamp: 1313678024
+      hot_speckledRock: 1588693763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

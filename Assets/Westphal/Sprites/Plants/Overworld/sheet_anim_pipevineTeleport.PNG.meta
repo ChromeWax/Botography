@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 916763de60fa3b641ba4f55c19b26c2f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 969
+        width: 127
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719eb157f32199c428f838f5db8cbd44
+      internalID: -1311180301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 969
+        width: 143
+        height: 228
+      alignment: 9
+      pivot: {x: 0.515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1c45d523dd494f971d7a8271c1f0d
+      internalID: -2020281143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 969
+        width: 145
+        height: 246
+      alignment: 9
+      pivot: {x: 0.521, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c85a36ce3b2e4cb84a1900d30c98e
+      internalID: -321268709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 969
+        width: 126
+        height: 259
+      alignment: 9
+      pivot: {x: 0.505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61be93bcbfb48479f49e35d2b80774
+      internalID: -518565918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 969
+        width: 110
+        height: 269
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7150669cf95e91c4bbaccdb05da0b98e
+      internalID: -510930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 969
+        width: 110
+        height: 269
+      alignment: 9
+      pivot: {x: 0.47, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2402ce3de6cf8974dbd9da2ee0876cd7
+      internalID: 1172292043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 969
+        width: 160
+        height: 229
+      alignment: 9
+      pivot: {x: 0.555, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45b6208c86997408d0b682edeb2fcf
+      internalID: 770104609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 946
+        width: 211
+        height: 212
+      alignment: 9
+      pivot: {x: 0.607, y: 0.108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b1b4e0c366a0499982335b4272ea8
+      internalID: -812298511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_8
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 969
+        width: 179
+        height: 208
+      alignment: 9
+      pivot: {x: 0.553, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1550e6c5db06f554a9f613373d034689
+      internalID: 149627169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 968
+        width: 179
+        height: 205
+      alignment: 9
+      pivot: {x: 0.548, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db49fb415783754bba15fbe20061afc
+      internalID: -254988128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 652
+        width: 173
+        height: 269
+      alignment: 9
+      pivot: {x: 0.533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11766a39095fc049b90ba06bede22a8
+      internalID: 1090436229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 652
+        width: 178
+        height: 258
+      alignment: 9
+      pivot: {x: 0.518, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce5c3987923a4a47a65f1cfd3ba8ccc
+      internalID: 2120664693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 652
+        width: 186
+        height: 239
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb861e369bc85724085a0ad825c00a08
+      internalID: -28372508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 653
+        width: 164
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5784acd3b9a4438837e2b92698968
+      internalID: 2090773467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 652
+        width: 137
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab4ac8a67e93024bbdaa830b3177b60
+      internalID: -1803136273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 652
+        width: 127
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b532e79c6e684dbbbe5d16fc4d271
+      internalID: -629644830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_16
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 652
+        width: 137
+        height: 195
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7e19c87c014843aade3dbc30c1c9d
+      internalID: 649440834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 164
+        height: 223
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b441a8b56a3f7b449bc5b97ff5056f2
+      internalID: -579740487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 366
+        width: 186
+        height: 239
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbdb2c937b05fc4da79b8851507b642
+      internalID: -685112470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 366
+        width: 178
+        height: 258
+      alignment: 9
+      pivot: {x: 0.518, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1cde26009112b449654b6129cdd3e3
+      internalID: -700980139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_20
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 366
+        width: 174
+        height: 269
+      alignment: 9
+      pivot: {x: 0.539, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d1bb804988d04f9e08cb8faa4ee41
+      internalID: -1251234462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_21
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 366
+        width: 180
+        height: 205
+      alignment: 9
+      pivot: {x: 0.545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c76663cc08a6d449ac4d6aad40be2b
+      internalID: -1135987405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_22
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 366
+        width: 181
+        height: 208
+      alignment: 9
+      pivot: {x: 0.545, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2dbccdabb54f542ad67fc06235a52c
+      internalID: -158149352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_23
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 343
+        width: 212
+        height: 212
+      alignment: 9
+      pivot: {x: 0.607, y: 0.108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a92da1271771404995fc486b16aa92b
+      internalID: -36804370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_24
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 343
+        width: 212
+        height: 212
+      alignment: 9
+      pivot: {x: 0.607, y: 0.108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d048363311c074fb0497db30555553
+      internalID: 1389618276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 178
+        height: 209
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b569d0dbba5a5f488c0356ab3625f70
+      internalID: -1662171446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 147
+        height: 229
+      alignment: 9
+      pivot: {x: 0.61, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a57aad042fe074186237a4021d787b
+      internalID: 353986959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 48
+        width: 127
+        height: 266
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d5b7e6f3d40648bb36e0c67b7507f
+      internalID: 1015772432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_28
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 48
+        width: 145
+        height: 269
+      alignment: 9
+      pivot: {x: 0.531, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d549cd47e56ef6044990c62997a1b798
+      internalID: -1877167462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_29
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 48
+        width: 143
+        height: 259
+      alignment: 9
+      pivot: {x: 0.515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db302576c954540b22d9aa3b4ae2a9
+      internalID: -1024978811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_30
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 48
+        width: 138
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f45efb69f4bd4baca71cfd717a60a
+      internalID: -2030134088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_31
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 48
+        width: 132
+        height: 228
+      alignment: 9
+      pivot: {x: 0.495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab48694b649824fa0eac14b107e13c
+      internalID: 15367127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_pipevineTeleport_32
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 48
+        width: 127
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639346c7aeae8d4baa0144dfa2d1039
+      internalID: 1066902646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0e65f19d86fb18042b6de57082b49a0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_pipevineTeleport_0: -1311180301
+      sheet_anim_pipevineTeleport_1: -2020281143
+      sheet_anim_pipevineTeleport_10: 1090436229
+      sheet_anim_pipevineTeleport_11: 2120664693
+      sheet_anim_pipevineTeleport_12: -28372508
+      sheet_anim_pipevineTeleport_13: 2090773467
+      sheet_anim_pipevineTeleport_14: -1803136273
+      sheet_anim_pipevineTeleport_15: -629644830
+      sheet_anim_pipevineTeleport_16: 649440834
+      sheet_anim_pipevineTeleport_17: -579740487
+      sheet_anim_pipevineTeleport_18: -685112470
+      sheet_anim_pipevineTeleport_19: -700980139
+      sheet_anim_pipevineTeleport_2: -321268709
+      sheet_anim_pipevineTeleport_20: -1251234462
+      sheet_anim_pipevineTeleport_21: -1135987405
+      sheet_anim_pipevineTeleport_22: -158149352
+      sheet_anim_pipevineTeleport_23: -36804370
+      sheet_anim_pipevineTeleport_24: 1389618276
+      sheet_anim_pipevineTeleport_25: -1662171446
+      sheet_anim_pipevineTeleport_26: 353986959
+      sheet_anim_pipevineTeleport_27: 1015772432
+      sheet_anim_pipevineTeleport_28: -1877167462
+      sheet_anim_pipevineTeleport_29: -1024978811
+      sheet_anim_pipevineTeleport_3: -518565918
+      sheet_anim_pipevineTeleport_30: -2030134088
+      sheet_anim_pipevineTeleport_31: 15367127
+      sheet_anim_pipevineTeleport_32: 1066902646
+      sheet_anim_pipevineTeleport_4: -510930490
+      sheet_anim_pipevineTeleport_5: 1172292043
+      sheet_anim_pipevineTeleport_6: 770104609
+      sheet_anim_pipevineTeleport_7: -812298511
+      sheet_anim_pipevineTeleport_8: 149627169
+      sheet_anim_pipevineTeleport_9: -254988128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

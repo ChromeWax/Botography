@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 61077e3f7f9363344b0b3ee8830bff08
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cold_IceNLizard_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1059
+        width: 171
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef97d6d9f5e21244b65475dac4ec58f
+      internalID: 1387026920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1055
+        width: 182
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a29196271e634f90823bb3e73f6bc
+      internalID: 1491701324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1055
+        width: 156
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f493f3b62ebc49be77a19a2d2cfea
+      internalID: -229157108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_3
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1059
+        width: 161
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4fc51039246e4795548f389e1786d
+      internalID: 178168358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1059
+        width: 172
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97386748d47b6c34e858fa6c7d56d760
+      internalID: 597549145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 358
+        width: 389
+        height: 599
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23.5, y: -135.5}
+        - {x: -39.5, y: -135.5}
+        - {x: -95.5, y: -152.5}
+        - {x: -164.5, y: -172.5}
+        - {x: -193.5, y: -212.5}
+        - {x: -194.5, y: -255.5}
+        - {x: -172.5, y: -259.5}
+        - {x: -143.5, y: -277.5}
+        - {x: -98.905556, y: -281.18823}
+        - {x: -58.5, y: -299.5}
+        - {x: 15.5, y: -281.5}
+        - {x: 72.5, y: -292.5}
+        - {x: 158.5, y: -264.5}
+        - {x: 167.5, y: -250.5}
+        - {x: 194.5, y: -232.5}
+        - {x: 192.5, y: -189.5}
+        - {x: 154.5, y: -157.5}
+        - {x: 83.5, y: -149.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8438504eb01049913f8c10f7111e9
+      internalID: -1644151202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 881
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30239caf6b70fd48937411e84f5d388
+      internalID: 846621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 888
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931cfdf80b76f1d438e322d74b01cbf9
+      internalID: 1345488670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_8
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 855
+        width: 139
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19.5, y: 3.5}
+        - {x: -39.5, y: -8.5}
+        - {x: -56.5, y: -13.5}
+        - {x: -69.5, y: -29.5}
+        - {x: -60.5, y: -37.5}
+        - {x: -12.5, y: -44.5}
+        - {x: 8.5, y: -39.5}
+        - {x: 37.5, y: -34.5}
+        - {x: 49.5, y: -35.5}
+        - {x: 69.5, y: -25.5}
+        - {x: 61.5, y: -13.5}
+        - {x: 46.5, y: -8.5}
+        - {x: 22.5, y: 4.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04284026f8404448dfc3e2a7df1d59
+      internalID: 440058003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 848
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d129bd6f6172940bf7fb8a8773a651
+      internalID: 612410747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 834
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a97d1b1678d89c4f8726c0b8802ffda
+      internalID: -1959204926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 790
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3a0dc53f16fa47b54b0ff1e524358
+      internalID: -1083692801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_12
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 777
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de03b8c31387364f8fd919ab0a45043
+      internalID: 1643135264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_13
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 724
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a1ccff8aa06c4489a8e34f088ef47
+      internalID: 796091348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 95
+        width: 124
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: -38}
+        - {x: -21, y: -39}
+        - {x: -57, y: -52}
+        - {x: -62, y: -85}
+        - {x: -40, y: -103}
+        - {x: -22, y: -111}
+        - {x: 29, y: -107}
+        - {x: 62, y: -90}
+        - {x: 62, y: -73.776886}
+        - {x: 58, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e345bae50ec6d6439945d459479ab78
+      internalID: 609312197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 76
+        width: 223
+        height: 418
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.5, y: -88}
+        - {x: -53.5, y: -100}
+        - {x: -103.5, y: -123}
+        - {x: -111.5, y: -148}
+        - {x: -103.5, y: -165}
+        - {x: -86.5, y: -187}
+        - {x: -44.5, y: -209}
+        - {x: -11.5, y: -198}
+        - {x: 32.5, y: -188}
+        - {x: 74.5, y: -187}
+        - {x: 111.5, y: -161}
+        - {x: 109.5, y: -120}
+        - {x: 57.5, y: -98}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20f8a694cfb0f43b32953ebad5b345
+      internalID: 937018367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_IceNLizard_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 70
+        width: 279
+        height: 573
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13.5, y: -155.5}
+        - {x: -37.5, y: -142.5}
+        - {x: -85.5, y: -154.5}
+        - {x: -132.5, y: -181.5}
+        - {x: -139.5, y: -232.5}
+        - {x: -113.5, y: -253.5}
+        - {x: -78.5, y: -270.5}
+        - {x: -24.5, y: -259.5}
+        - {x: 55.5, y: -286.5}
+        - {x: 116.5, y: -272.5}
+        - {x: 139.5, y: -240.5}
+        - {x: 131.5, y: -185.5}
+        - {x: 88.5, y: -153.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c10d2fa23b041d4fa02ba5f844b65b1
+      internalID: -2047317460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cold_IceNLizard_0: 1387026920
+      Cold_IceNLizard_1: 1491701324
+      Cold_IceNLizard_10: -1959204926
+      Cold_IceNLizard_11: -1083692801
+      Cold_IceNLizard_12: 1643135264
+      Cold_IceNLizard_13: 796091348
+      Cold_IceNLizard_14: 609312197
+      Cold_IceNLizard_15: 937018367
+      Cold_IceNLizard_16: -2047317460
+      Cold_IceNLizard_2: -229157108
+      Cold_IceNLizard_3: 178168358
+      Cold_IceNLizard_4: 597549145
+      Cold_IceNLizard_5: -1644151202
+      Cold_IceNLizard_6: 846621531
+      Cold_IceNLizard_7: 1345488670
+      Cold_IceNLizard_8: 440058003
+      Cold_IceNLizard_9: 612410747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: e897c8335e25d0a4a99f02b57adbcc13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acid Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051.7142
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2ffad3748003448bff99c6b8dcbe7d
+      internalID: -729876253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1051.7142
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d9778d8ae827c4781112c10b80b685
+      internalID: 1280081277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1051.7142
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21ba0f6f077f241a43dee57112f928
+      internalID: 893605276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93a4dca7fa6c245abc175f6c32b499
+      internalID: 224723411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 876.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6441574ee0d783346a910bbe7759a2bc
+      internalID: -2053952103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 876.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da02bf0501b1384dbd2fad13a3f88ab
+      internalID: 1016378594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c017e66d730efb47859d8fbbd0cb767
+      internalID: -556965243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 701.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ffb688aaf7e14e95812d10609e522
+      internalID: 668887575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 701.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a217db0109d3c34381908e413a978a1
+      internalID: 328965885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3822e4b3a0f14c8f36cfd540de2bc
+      internalID: 2021887488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 526.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c14b63ddb1f8841b526327f6a91bc3
+      internalID: -742841589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clay Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 526.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04236dfefc09aeb40bbf6110d610fa72
+      internalID: 328342074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loam Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f1e8c3a07450a46be27928cb0eda0a
+      internalID: 212747935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loam Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb0edc9a1a420468c859608fbbd18c
+      internalID: 1457593172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loam Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 351.7143
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260e5330b2b3cd4382bd40bfd9d3d1a
+      internalID: -1866517678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176.71428
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecebc8c8d49c314b9fe3109410024c1
+      internalID: -728109320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176.71428
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420ae6ca857da44dbb8cda437f6f39e
+      internalID: 1464693317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 176.71428
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeecba46fcc9b84298106a05fcbb6a7
+      internalID: 115830191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silt Fill 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.7142792
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5f3883366e0f47b8fdfc741afcc02
+      internalID: 562645647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silt Fill 2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1.7142792
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453172e2d74f7b443b7e1da390aab573
+      internalID: -1864969257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silt Fill 3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1.7142792
+        width: 175.33333
+        height: 175.28572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98a50d758d9dba47b661f69462a3509
+      internalID: -2146833868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d54aefe617cb8145af16065a9986c5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Acid Fill 1: -729876253
+      Acid Fill 2: 1280081277
+      Acid Fill 3: 893605276
+      Base Fill 1: -556965243
+      Base Fill 2: 668887575
+      Base Fill 3: 328965885
+      Clay Fill 1: 2021887488
+      Clay Fill 2: -742841589
+      Clay Fill 3: 328342074
+      Loam Fill 1: 212747935
+      Loam Fill 2: 1457593172
+      Loam Fill 3: -1866517678
+      Neutral Fill 1: 224723411
+      Neutral Fill 2: -2053952103
+      Neutral Fill 3: 1016378594
+      Sand Fill 1: -728109320
+      Sand Fill 2: 1464693317
+      Sand Fill 3: 115830191
+      Silt Fill 1: 562645647
+      Silt Fill 2: -1864969257
+      Silt Fill 3: -2146833868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: ae5b17eccc8daff4593b1d728585fb05
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 958
+        width: 87
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1924ad4879fb874e942cf87e2432f5a
+      internalID: 1615149366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 958
+        width: 81
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bbb9214a9a4b04a926b605dfebada1
+      internalID: 1814313162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 959
+        width: 80
+        height: 201
+      alignment: 9
+      pivot: {x: 0.51875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722d4b5337f7c2949a2f4d98481ccd29
+      internalID: 1177760713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 959
+        width: 83
+        height: 195
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b514ae597885c64291c5cfd2a2a070d
+      internalID: -1139558378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 959
+        width: 89
+        height: 198
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dc1a1bb8262c4a9fd7ea03cd8556c
+      internalID: -1346417698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_5
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 959
+        width: 91
+        height: 200
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34245c3658241764ebc139846a3faa75
+      internalID: -2012786478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 959
+        width: 97
+        height: 201
+      alignment: 9
+      pivot: {x: 0.46907216, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb31511434ff048bb032260d76950e
+      internalID: -301846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_7
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 959
+        width: 102
+        height: 203
+      alignment: 9
+      pivot: {x: 0.44607842, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3086e7e46da256438132d4825505f8c
+      internalID: 1950117184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 717
+        width: 107
+        height: 208
+      alignment: 9
+      pivot: {x: 0.42990655, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5143d0337833439e9d4bfe690f083
+      internalID: 324603622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 717
+        width: 120
+        height: 211
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c48c0e1db8c5f4b9ea52ec8f6ce54e
+      internalID: 1961479035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 717
+        width: 121
+        height: 209
+      alignment: 9
+      pivot: {x: 0.46280992, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c34f8d46ca87445bc78f31f455d04b
+      internalID: 1002893589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_11
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 717
+        width: 121
+        height: 206
+      alignment: 9
+      pivot: {x: 0.46280992, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f786f558dac1547bce46be51df27c8
+      internalID: 1242126210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_12
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 717
+        width: 120
+        height: 204
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d616552575829841b34910d9f41af87
+      internalID: 2081817052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 717
+        width: 122
+        height: 206
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d1d0008c95a84da02c055fcc4e166
+      internalID: -524586754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_14
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 717
+        width: 117
+        height: 203
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf69ada8444a44d9e6eda8d9373659
+      internalID: -1014821107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_15
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 717
+        width: 117
+        height: 203
+      alignment: 9
+      pivot: {x: 0.46581197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2b0b8c737ee44380cf81205f4719c
+      internalID: -1680781881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 481
+        width: 115
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4695652, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088f87d258673f4ba5e002344520a05
+      internalID: 227839809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 481
+        width: 111
+        height: 202
+      alignment: 9
+      pivot: {x: 0.4774775, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b1716e3b2e2f43bc9e295cd3a3735
+      internalID: -1820065451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 481
+        width: 112
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81eb9cb7255124eb7b667f6eb92aa0
+      internalID: 2057988608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_19
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 481
+        width: 108
+        height: 199
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5603d9ece17b4689d458bbc78d817
+      internalID: 697360129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_20
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 481
+        width: 98
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2da26c03bf90c44bce40c899894734
+      internalID: 923274959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_21
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 481
+        width: 94
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3f6f878b91db4ba731f06dba156af
+      internalID: -227926153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_22
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 481
+        width: 90
+        height: 192
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfcb1d56906498448d7b91122827ec3
+      internalID: -69319121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_23
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 481
+        width: 88
+        height: 194
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62335d8ded577864a8ccbda4f84da226
+      internalID: -156894915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 244
+        width: 85
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d7313efba0cd4ea95e0671765af43
+      internalID: -1159469768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 244
+        width: 89
+        height: 200
+      alignment: 9
+      pivot: {x: 0.58426964, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96fb583e1fa3804996f37fbcbe0d628
+      internalID: -450522120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 244
+        width: 90
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b0724d6bb32a4dadf2cc19b8b7365
+      internalID: 647962372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 244
+        width: 93
+        height: 204
+      alignment: 9
+      pivot: {x: 0.56989247, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ed92a45d41d34eb040aa126c47ee4
+      internalID: 1311365925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_28
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 244
+        width: 92
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e2032d7c24494e8a6d797b6c96c5e
+      internalID: 638965215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 244
+        width: 90
+        height: 198
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24fda1c28a56e0478ab6536d29fe2ee
+      internalID: 1876069376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_30
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 244
+        width: 92
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e5b2aea7177641842cc028dc57340
+      internalID: -2043973583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_31
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 244
+        width: 93
+        height: 197
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883cc1cb69ebe0840a314bf162449156
+      internalID: -1978066904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 87
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5114943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8323e73309f296b4f96987c52e98f5bf
+      internalID: 995057833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_spearmint_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 7
+        width: 85
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5235294, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47519ec8bc02e4db065b361a591440
+      internalID: 366569115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_spearmint_0: 1615149366
+      sheet_anim_spearmint_1: 1814313162
+      sheet_anim_spearmint_10: 1002893589
+      sheet_anim_spearmint_11: 1242126210
+      sheet_anim_spearmint_12: 2081817052
+      sheet_anim_spearmint_13: -524586754
+      sheet_anim_spearmint_14: -1014821107
+      sheet_anim_spearmint_15: -1680781881
+      sheet_anim_spearmint_16: 227839809
+      sheet_anim_spearmint_17: -1820065451
+      sheet_anim_spearmint_18: 2057988608
+      sheet_anim_spearmint_19: 697360129
+      sheet_anim_spearmint_2: 1177760713
+      sheet_anim_spearmint_20: 923274959
+      sheet_anim_spearmint_21: -227926153
+      sheet_anim_spearmint_22: -69319121
+      sheet_anim_spearmint_23: -156894915
+      sheet_anim_spearmint_24: -1159469768
+      sheet_anim_spearmint_25: -450522120
+      sheet_anim_spearmint_26: 647962372
+      sheet_anim_spearmint_27: 1311365925
+      sheet_anim_spearmint_28: 638965215
+      sheet_anim_spearmint_29: 1876069376
+      sheet_anim_spearmint_3: -1139558378
+      sheet_anim_spearmint_30: -2043973583
+      sheet_anim_spearmint_31: -1978066904
+      sheet_anim_spearmint_32: 995057833
+      sheet_anim_spearmint_33: 366569115
+      sheet_anim_spearmint_4: -1346417698
+      sheet_anim_spearmint_5: -2012786478
+      sheet_anim_spearmint_6: -301846424
+      sheet_anim_spearmint_7: 1950117184
+      sheet_anim_spearmint_8: 324603622
+      sheet_anim_spearmint_9: 1961479035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

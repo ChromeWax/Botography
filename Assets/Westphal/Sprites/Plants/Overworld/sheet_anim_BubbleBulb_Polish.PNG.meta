@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: de3ede3fad180a94f91f80fac1460851
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 841
+        width: 84
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac112cf09c881246b8ec36d8c0e2414
+      internalID: 1783265170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 840
+        width: 80
+        height: 169
+      alignment: 9
+      pivot: {x: 0.4992922, y: 0.0058716545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57083d52388a004892fd8eeb6c3cd6a
+      internalID: 772864365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 840
+        width: 81
+        height: 163
+      alignment: 9
+      pivot: {x: 0.4802461, y: 0.0062577887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73137c08989309b4792a50462d62051b
+      internalID: 1329232571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 838
+        width: 79
+        height: 161
+      alignment: 9
+      pivot: {x: 0.47999978, y: 0.018757505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c925fddc539a54bbca4a108cc4dd5e
+      internalID: -423876680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 837
+        width: 78
+        height: 158
+      alignment: 9
+      pivot: {x: 0.46036315, y: 0.025437366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406c8fa11fe748b489c98f2cc24f04df
+      internalID: 48733673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 837
+        width: 78
+        height: 159
+      alignment: 9
+      pivot: {x: 0.44803014, y: 0.025243603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571354dfcedb4c4f9de3900884f954e
+      internalID: -543577133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 622
+        width: 90
+        height: 164
+      alignment: 9
+      pivot: {x: 0.45504227, y: 0.02438094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a55ccb36a1ce40897dcb961f24c60
+      internalID: 1602578328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 622
+        width: 82
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49951544, y: 0.02516184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd6d11814f47b47bbb8d905bfacdab
+      internalID: 731334834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 622
+        width: 79
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4929686, y: 0.026496887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d7a9a951b2fe428dfb7a908fcfee8
+      internalID: -1906986101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 624
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49859148, y: 0.013570696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b182bb0926e449ae3fb1936bd6b39
+      internalID: -165835062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 624
+        width: 85
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49292997, y: 0.013449444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d7405a42b7504d90327cc3278c669
+      internalID: -105449501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 626
+        width: 89
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5380887, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c73b04e441b042871c2e64e28ac2e
+      internalID: 457140238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 414
+        width: 107
+        height: 184
+      alignment: 9
+      pivot: {x: 0.59707415, y: 0.0057258606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b70ce03bedc6428e48097bb4edd88
+      internalID: 1220645472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 415
+        width: 86
+        height: 146
+      alignment: 9
+      pivot: {x: 0.52219313, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b22ac1bca813f4d85b48c85f8d61dc
+      internalID: -1936769362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 412
+        width: 94
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5419414, y: 0.019491281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8950c5b5d5b9d4ea9285f21b7097fd
+      internalID: 2035410179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 413
+        width: 121
+        height: 200
+      alignment: 9
+      pivot: {x: 0.56119734, y: 0.010379181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445f326045490e844826edacd2cb1429
+      internalID: -102234887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 412
+        width: 123
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5681966, y: 0.015704222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4791b69896a8c3c40b20a00faf4623ed
+      internalID: 1186558015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 411
+        width: 79
+        height: 154
+      alignment: 9
+      pivot: {x: 0.46734232, y: 0.026605185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378bca9fe4f8de46b006c23d4f6710a
+      internalID: -799110881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 205
+        width: 76
+        height: 141
+      alignment: 9
+      pivot: {x: 0.45967636, y: 0.036383014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e976b470c8c6f747956617481a16037
+      internalID: -6027818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 204
+        width: 80
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4369831, y: 0.04662473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e09b3eaab7ebc48a32ca13a560a0b2
+      internalID: -809564479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 205
+        width: 85
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5049277, y: 0.04920204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743f3daa35366840915b0cce686f4a2
+      internalID: 1573879621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 205
+        width: 95
+        height: 116
+      alignment: 9
+      pivot: {x: 0.39855763, y: 0.044575002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90478e2727ff14286e690f90dab9a9
+      internalID: 1976182962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 206
+        width: 99
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36288914, y: 0.032592773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe496fe8cc0d894e8fc404afdc60e91
+      internalID: 1362124450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 207
+        width: 82
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4863832, y: 0.030219814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf80754e6b37c4baf8538697bfd836
+      internalID: 586350918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 205
+        width: 83
+        height: 99
+      alignment: 9
+      pivot: {x: 0.44477716, y: 0.052825157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e611cc8dc82394a80d88da3e1f853e
+      internalID: 1342677093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 81
+        height: 133
+      alignment: 9
+      pivot: {x: 0.49274462, y: 0.023415694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa434451f49f44088a888eef750a0b
+      internalID: 1266502461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 10
+        width: 79
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47991654, y: 0.015641289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b217879944c10d4fade1fb7c43dc029
+      internalID: 512133145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 10
+        width: 82
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47420186, y: 0.015293833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df68b88a85e78488c9c671c16bd7f3
+      internalID: -1894646550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_28
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 82
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4992821, y: 0.008333978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7575d07d81f4c94a829f7497eccd417
+      internalID: -974376303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BubbleBulb_Polish_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 12
+        width: 84
+        height: 157
+      alignment: 9
+      pivot: {x: 0.49916586, y: 0.0017849989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e394808459b248bf8cd89172aa1bc
+      internalID: 1107862969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_BubbleBulb_Polish_0: 1783265170
+      sheet_anim_BubbleBulb_Polish_1: 772864365
+      sheet_anim_BubbleBulb_Polish_10: -105449501
+      sheet_anim_BubbleBulb_Polish_11: 457140238
+      sheet_anim_BubbleBulb_Polish_12: -1936769362
+      sheet_anim_BubbleBulb_Polish_13: 2035410179
+      sheet_anim_BubbleBulb_Polish_14: 1220645472
+      sheet_anim_BubbleBulb_Polish_15: -102234887
+      sheet_anim_BubbleBulb_Polish_16: 1186558015
+      sheet_anim_BubbleBulb_Polish_17: -799110881
+      sheet_anim_BubbleBulb_Polish_18: -6027818
+      sheet_anim_BubbleBulb_Polish_19: -809564479
+      sheet_anim_BubbleBulb_Polish_2: 1329232571
+      sheet_anim_BubbleBulb_Polish_20: 1573879621
+      sheet_anim_BubbleBulb_Polish_21: 1342677093
+      sheet_anim_BubbleBulb_Polish_22: 1976182962
+      sheet_anim_BubbleBulb_Polish_23: 1362124450
+      sheet_anim_BubbleBulb_Polish_24: 586350918
+      sheet_anim_BubbleBulb_Polish_25: 1266502461
+      sheet_anim_BubbleBulb_Polish_26: 512133145
+      sheet_anim_BubbleBulb_Polish_27: -1894646550
+      sheet_anim_BubbleBulb_Polish_28: -974376303
+      sheet_anim_BubbleBulb_Polish_29: 1107862969
+      sheet_anim_BubbleBulb_Polish_3: -423876680
+      sheet_anim_BubbleBulb_Polish_30: -431661649
+      sheet_anim_BubbleBulb_Polish_4: 48733673
+      sheet_anim_BubbleBulb_Polish_5: -543577133
+      sheet_anim_BubbleBulb_Polish_6: 1602578328
+      sheet_anim_BubbleBulb_Polish_7: 731334834
+      sheet_anim_BubbleBulb_Polish_8: -1906986101
+      sheet_anim_BubbleBulb_Polish_9: -165835062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

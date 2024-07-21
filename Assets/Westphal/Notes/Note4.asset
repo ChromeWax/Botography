@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note4
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "Alright, that\u2019s enough. At this rate, the swamp is swallowing
+    our machines faster than we can replace them! We can only thank our lucky stars
+    it hasn\u2019t gobbled up my crew as well.\r\nI still don\u2019t know what\u2019s
+    going on with this place, but I ain\u2019t sticking around to find out. We\u2019re
+    packing up whatever equipment is left and will be heading back to the boat before
+    sundown. \r\nThis whole project was a complete disaster\u2026\r"

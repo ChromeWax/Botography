@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note3
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: The pollution is making it hard for the workers to breathe, but the
+    plants seem to be doing just fine. One moment, the foliage is withering. But
+    the next thing you know, they just grow back even healthier! If we could just
+    get our hands on whatever keeps them going, we'll be filthy rich!

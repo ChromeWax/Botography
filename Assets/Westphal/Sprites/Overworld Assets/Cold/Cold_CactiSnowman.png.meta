@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 668f87142317ea04582f3868ee2aa1c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 777
+        width: 445
+        height: 356
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 135.5, y: -25}
+        - {x: 74.5, y: -31}
+        - {x: 31.5, y: -60}
+        - {x: -11.5, y: -61}
+        - {x: -66.5, y: -32}
+        - {x: -222.5, y: -34}
+        - {x: -189.5, y: -91}
+        - {x: -105.5, y: -100}
+        - {x: -21.5, y: -178}
+        - {x: 31.5, y: -178}
+        - {x: 165.5, y: -111}
+        - {x: 192.5, y: -72}
+        - {x: 163.5, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a28e723b870a744b91ed597b5fc674
+      internalID: 728053434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 786
+        width: 264
+        height: 261
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 111, y: 4.5}
+        - {x: 62, y: -13.5}
+        - {x: 27, y: -50.5}
+        - {x: -21, y: -49.5}
+        - {x: -45, y: -14.5}
+        - {x: -96, y: 3.5}
+        - {x: -119, y: -20.5}
+        - {x: -50, y: -105.5}
+        - {x: -8, y: -130.5}
+        - {x: 25, y: -130.5}
+        - {x: 132, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b87e9e5acd64d46b76d75c7aea7099
+      internalID: 375937486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_2
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 789
+        width: 149
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44.5, y: 6}
+        - {x: -74.5, y: -4}
+        - {x: 8.5, y: -90}
+        - {x: 36.5, y: -90}
+        - {x: 74.5, y: -68}
+        - {x: 74.5, y: -18}
+        - {x: 36.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d981eb50628f08f47ac43c2eeaae4ed9
+      internalID: -925523254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 514
+        width: 185
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -92.5, y: -14.5}
+        - {x: -92.5, y: -59.5}
+        - {x: -27.5, y: -102.5}
+        - {x: 30.5, y: -102.5}
+        - {x: 92.5, y: -58.5}
+        - {x: 92.5, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e0b6d320ac864b8579e39cb6760cd
+      internalID: 1363196696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 530
+        width: 170
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 45, y: 78.5}
+        - {x: -40, y: 78.5}
+        - {x: -85, y: -1.5}
+        - {x: -41, y: -78.5}
+        - {x: 48, y: -78.5}
+        - {x: 85, y: -2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77733e11966d3d14ab1061d2550ab29d
+      internalID: 1175609237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 676
+        width: 55
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f722bf2c3f11c740a069bd6a2008266
+      internalID: -138034098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 523
+        width: 109
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -54.5, y: -2}
+        - {x: -54.5, y: -28}
+        - {x: -25.5, y: -63}
+        - {x: 25.5, y: -63}
+        - {x: 54.5, y: -30}
+        - {x: 54.5, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ddd44180304cb438e51d7ecacbc346
+      internalID: 302733635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 532
+        width: 112
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 31, y: 51}
+        - {x: -30, y: 51}
+        - {x: -56, y: 0}
+        - {x: -31, y: -51}
+        - {x: 31, y: -51}
+        - {x: 56, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af4e8bd3885cf44f80d03367be6a2d9
+      internalID: -1976340174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_8
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 601
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92dc2b0514e34646802e0a5495b0349
+      internalID: 1903817769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 543
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bdb4f909fce924aaee2848da01549d
+      internalID: -2087011076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 483
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f22495253f8b4591c9222068b0480
+      internalID: 599441326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 422
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769fd7525597fd469ce8a250e79d4d8
+      internalID: -1917979874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 362
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c12ef44d1524b4a9a56b7a61484374
+      internalID: -1297464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_13
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 308
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533be762dcc83674990c1a2a8162123e
+      internalID: 1053857993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_14
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 248
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49436741ba253ef46b40ec06a1486922
+      internalID: -566554933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 177
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -37.5, y: -4}
+        - {x: -64.5, y: -17}
+        - {x: -72.5, y: -63}
+        - {x: -48.5, y: -85}
+        - {x: -9.5, y: -97}
+        - {x: 43.5, y: -86}
+        - {x: 60.5, y: -70}
+        - {x: 64.5, y: -33}
+        - {x: 21.5, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0314c5ef9119b5041b2b1373aa0c36c5
+      internalID: -1466452546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6
+        width: 177
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -37.5, y: 3}
+        - {x: -64.5, y: -10}
+        - {x: -70.5, y: -56}
+        - {x: -47.5, y: -76}
+        - {x: -9.5, y: -89}
+        - {x: 42.5, y: -78}
+        - {x: 59.5, y: -62}
+        - {x: 63.5, y: -25}
+        - {x: 21.5, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f169922e9a9ca845a481c835d4481b7
+      internalID: -1738662270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 6
+        width: 177
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -39.5, y: -8.5}
+        - {x: -66.5, y: -21.5}
+        - {x: -72.5, y: -67.5}
+        - {x: -41.5, y: -93.5}
+        - {x: -11.5, y: -101.5}
+        - {x: 41.5, y: -90.5}
+        - {x: 58.5, y: -74.5}
+        - {x: 62.5, y: -37.5}
+        - {x: 19.5, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf74aa13b666a43b9246318f524c32
+      internalID: -1959670395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_CactiSnowman_18
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4
+        width: 221
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61.5, y: -5}
+        - {x: -88.5, y: -18}
+        - {x: -94.5, y: -64}
+        - {x: -63.5, y: -90}
+        - {x: -33.5, y: -97}
+        - {x: 19.5, y: -87}
+        - {x: 36.5, y: -71}
+        - {x: 40.5, y: -34}
+        - {x: -2.5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf779512a775040a16d31c361bc280
+      internalID: 1649437706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 14d9111871d627d4dbaf358f1671ef01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cold_CactiSnowman_0: 728053434
+      Cold_CactiSnowman_1: 375937486
+      Cold_CactiSnowman_10: 599441326
+      Cold_CactiSnowman_11: -1917979874
+      Cold_CactiSnowman_12: -1297464736
+      Cold_CactiSnowman_13: 1053857993
+      Cold_CactiSnowman_14: -566554933
+      Cold_CactiSnowman_15: -1466452546
+      Cold_CactiSnowman_16: -1738662270
+      Cold_CactiSnowman_17: -1959670395
+      Cold_CactiSnowman_18: 1649437706
+      Cold_CactiSnowman_2: -925523254
+      Cold_CactiSnowman_3: 1363196696
+      Cold_CactiSnowman_4: 1175609237
+      Cold_CactiSnowman_5: -138034098
+      Cold_CactiSnowman_6: 302733635
+      Cold_CactiSnowman_7: -1976340174
+      Cold_CactiSnowman_8: 1903817769
+      Cold_CactiSnowman_9: -2087011076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: PROTOTYPE_PanaceanSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 0
+  _plantName: PROTOTYPE_Panacean
+  _plantScientificName: Idk
+  _artwork: {fileID: -367003916, guid: 0350a8be38c774141b73cb297ced211c, type: 3}
+  _plantSunlightLevel1: 0
+  _plantSoilType1: 0
+  _plantWaterPh1: 0
+  _plantSunlightLevel2: 0
+  _plantSoilType2: 0
+  _plantWaterPh2: 0
+  _description: BAARNING RAABU!
+  _plantUsageType: 0
+  _prefab: {fileID: 5027666521156836974, guid: 11c35ec130b6c59448041e911e55f66c, type: 3}

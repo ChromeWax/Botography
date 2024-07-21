@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: b49cc1fc4a50dce4dab0a3bc55d5d441
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SignsAndVines_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 966
+        width: 141
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -65.5, y: -49}
+        - {x: -61.5, y: -68}
+        - {x: 62.5, y: -68}
+        - {x: 64.5, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c8f43b83b30d43a875782f8ee5346
+      internalID: 180944774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 856
+        width: 185
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 90.5, y: -35.5}
+        - {x: -92.5, y: -34.5}
+        - {x: -92.5, y: -50.5}
+        - {x: -70.612915, y: -67.5}
+        - {x: 76.5, y: -67.5}
+        - {x: 90.5, y: -52.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e063b59e2aa983c4f91d46afe4f74c73
+      internalID: 696143377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 774
+        width: 185
+        height: 402
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 78.5, y: -168}
+        - {x: 53.5, y: -163}
+        - {x: 29.5, y: -169}
+        - {x: 21.246033, y: -187.86621}
+        - {x: 30.5, y: -199}
+        - {x: 55.5, y: -201}
+        - {x: 79.5, y: -197}
+        - {x: 88.5, y: -186}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da94c96233c90947ada9535777b8f9a
+      internalID: 1502180622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 497
+        width: 114
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -158}
+        - {x: -3, y: -134}
+        - {x: 13, y: -134}
+        - {x: 12, y: -158}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41407cb8728018240b9031c32096e4f8
+      internalID: -1996996087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_23
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 486
+        width: 148
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -53}
+        - {x: -45, y: -62}
+        - {x: -68, y: -78}
+        - {x: -63, y: -86}
+        - {x: -27, y: -94}
+        - {x: 14, y: -94}
+        - {x: 51.322266, y: -86.681946}
+        - {x: 58, y: -79}
+        - {x: 39, y: -63}
+        - {x: 13, y: -53}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f89493cda43a9540bc5016ab320a6e8
+      internalID: 1009798723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 120
+        width: 145
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75d48c0b240a324aa77e4acb38c16ac
+      internalID: -1114200467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 120
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3cbd424f7b63469879c8c2cc332f1
+      internalID: 40762555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d966d158a6320448fa725feb0845ba
+      internalID: 341788820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignsAndVines_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c2d08d7d4cee444ad00cc5cad6f42e
+      internalID: -516257831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SignsAndVines_0: 340995693
+      SignsAndVines_1: -1260018409
+      SignsAndVines_10: 1570341751
+      SignsAndVines_11: -868219844
+      SignsAndVines_12: 118071956
+      SignsAndVines_13: 696143377
+      SignsAndVines_14: 805529526
+      SignsAndVines_15: 1744595994
+      SignsAndVines_16: -299848249
+      SignsAndVines_17: 1502180622
+      SignsAndVines_18: -1691735466
+      SignsAndVines_19: 699696964
+      SignsAndVines_2: -348968294
+      SignsAndVines_20: 16156097
+      SignsAndVines_21: -1996996087
+      SignsAndVines_22: -988963488
+      SignsAndVines_23: 1009798723
+      SignsAndVines_24: -1114200467
+      SignsAndVines_25: 1001742175
+      SignsAndVines_26: 40762555
+      SignsAndVines_27: 341788820
+      SignsAndVines_28: -516257831
+      SignsAndVines_29: -1115988313
+      SignsAndVines_3: -1447678768
+      SignsAndVines_4: 1982751439
+      SignsAndVines_5: -57368054
+      SignsAndVines_6: 180944774
+      SignsAndVines_7: -1996919492
+      SignsAndVines_8: 970821091
+      SignsAndVines_9: -1213049327
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

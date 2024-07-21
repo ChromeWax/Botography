@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: RoseCuffsSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 8
+  _plantName: Rose Fringe
+  _plantScientificName: Rosaceae Uniformina
+  _artwork: {fileID: -1978072295, guid: 2ff1933d89dba4a4c9534e53e3c024f3, type: 3}
+  _almanacArtwork: {fileID: 553449603, guid: 2ff1933d89dba4a4c9534e53e3c024f3, type: 3}
+  _plantSunlightLevel1: 1
+  _plantSoilType1: 2
+  _plantWaterPh1: 0
+  _plantSunlightLevel2: 0
+  _plantSoilType2: 2
+  _plantWaterPh2: 1
+  _description: "I believe that in addition to the larger thorns, the Rose Fringe
+    has millions of tiny thorns that shred even the most terrifying of brambles.
+    Incredibly, it only seems to react to things as sharp as it, meaning I\u2019m
+    able to not only safely handle it, but strap it around my waist for protection!"
+  _plantUsageType: 3
+  _prefab: {fileID: 2992215339640502754, guid: d4e92ea9a4ce96948bb25f987b47162e, type: 3}

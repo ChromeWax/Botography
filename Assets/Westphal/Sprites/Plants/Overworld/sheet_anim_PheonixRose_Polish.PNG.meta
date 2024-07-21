@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: bfba3f9509449df4f94e62c5ca514fee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 282
+        width: 40
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5899261, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec736e38509bb45a49c492895b2586
+      internalID: -2106963144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 282
+        width: 46
+        height: 119
+      alignment: 9
+      pivot: {x: 0.55584985, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfaa734ef18524a851651eec277009
+      internalID: -312884376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 282
+        width: 55
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fbc1ecdad22f48bd14362a82da676
+      internalID: -5325093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 52
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5101541, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c856089b36e494aa5a2dbd5e620525
+      internalID: 1668546350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 49
+        height: 138
+      alignment: 9
+      pivot: {x: 0.517859, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c822ba3281a8a47a7c8a675913172c
+      internalID: -1571996006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 282
+        width: 37
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5775724, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b7b720a62d2a44bdcbea3f2351296
+      internalID: 245303191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 58
+        height: 119
+      alignment: 9
+      pivot: {x: 0.38641503, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608d6a5137c21648b99fb363d102a78
+      internalID: 397365300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 47
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5170212, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92c78b858f09449bed0da0b3e40e4a
+      internalID: -734539286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 71
+        height: 111
+      alignment: 9
+      pivot: {x: 0.32981613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e27e7227c70049a4c55125b894b84
+      internalID: -1091299376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 127
+        width: 96
+        height: 71
+      alignment: 9
+      pivot: {x: 0.25344786, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b18d1dffe032b448aa090cecd420f19
+      internalID: -1931201879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 127
+        width: 95
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2657503, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3af2757b2cfe4b4fa7fad71b4d7c1b9
+      internalID: 1268446597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2504673, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d74a823979d44545be8b85dbebad876
+      internalID: -1599065358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PheonixRose_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 15
+        width: 70
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3731513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06df00545ad6b943970e6b788e8c53b
+      internalID: 1561028170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df03e291823e17044b0a7b9e1b54083d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_PheonixRose_Polish_0: -5325093
+      sheet_anim_PheonixRose_Polish_1: 1668546350
+      sheet_anim_PheonixRose_Polish_10: 1268446597
+      sheet_anim_PheonixRose_Polish_11: -1599065358
+      sheet_anim_PheonixRose_Polish_12: 1561028170
+      sheet_anim_PheonixRose_Polish_13: -1370648788
+      sheet_anim_PheonixRose_Polish_14: 203475265
+      sheet_anim_PheonixRose_Polish_15: 352934216
+      sheet_anim_PheonixRose_Polish_17: 1093257389
+      sheet_anim_PheonixRose_Polish_2: -1571996006
+      sheet_anim_PheonixRose_Polish_20: -861214586
+      sheet_anim_PheonixRose_Polish_23: -249138262
+      sheet_anim_PheonixRose_Polish_26: -1442490173
+      sheet_anim_PheonixRose_Polish_27: -444902753
+      sheet_anim_PheonixRose_Polish_3: -312884376
+      sheet_anim_PheonixRose_Polish_4: -2106963144
+      sheet_anim_PheonixRose_Polish_5: 245303191
+      sheet_anim_PheonixRose_Polish_6: -734539286
+      sheet_anim_PheonixRose_Polish_7: 397365300
+      sheet_anim_PheonixRose_Polish_8: -1091299376
+      sheet_anim_PheonixRose_Polish_9: -1931201879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

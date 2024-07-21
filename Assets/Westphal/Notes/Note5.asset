@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note5
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "Another excavator got sunk this morning. The ground was stable one
+    minute, and then collapsed in seconds! \r\nWe\u2019ve been here for weeks, how
+    did no one notice the deterioration in the inspections? It\u2019s not like the
+    dirt can just magically turn to mud when it feels like it, right?\r\nOn top of
+    all that, one of our oil rigs just started sinking out of nowhere a few minutes
+    ago. At this rate, we\u2019ll be trudging back to the boat on foot by tomorrow\u2026.\r"

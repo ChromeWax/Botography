@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note7
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "We\u2019ve analyzed the <color=#7B3F00>soil</color> of the island
+    and have classified it into four types: Loam, Sand, Clay, and Silt. Along with
+    this, we\u2019ve detected an anomalous amount of biodiversity among the insect
+    population. The island has been found to have non-standard geologic features,
+    strange plateaus and chasms. And despite no known fault lines beneath this area,
+    it's volcanically active! I can\u2019t wait to test the water hardness and salinity\u2026
+    \r"

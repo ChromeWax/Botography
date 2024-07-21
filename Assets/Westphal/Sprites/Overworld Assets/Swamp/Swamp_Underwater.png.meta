@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: e18d1bcd49a6a274baf32e88cf8e7b0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swamp_Underwater_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1027
+        width: 35
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e111e278fb14494c9c9e137126a34e7
+      internalID: -770184848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1027
+        width: 26
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d6137eeb23094dbbc72a87472dc64
+      internalID: -1638549336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1027
+        width: 89
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: -35.5}
+        - {x: -18.5, y: -42.5}
+        - {x: -15.5, y: -46.5}
+        - {x: 8.5, y: -46.5}
+        - {x: 13.5, y: -43.5}
+        - {x: 7.5, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0324b623b4c7b5489932dab3ab44a67
+      internalID: -403497700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1028
+        width: 94
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -37}
+        - {x: -10, y: -37}
+        - {x: -18, y: -40}
+        - {x: -8, y: -47}
+        - {x: 6, y: -47}
+        - {x: 13, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af4413ab5eeb145a9ef196c1861f71
+      internalID: 1592752245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1089
+        width: 41
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.5, y: 4}
+        - {x: -18.5, y: 1}
+        - {x: -19.5, y: -7}
+        - {x: -7.5, y: -10}
+        - {x: 11.5, y: -10}
+        - {x: 20.5, y: -2}
+        - {x: 20.5, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d4cec2f3bdee40b63045a63648141
+      internalID: 743760033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 970
+        width: 55
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239175a458911d24cb26cd80504800ce
+      internalID: -1010926730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_6
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 970
+        width: 56
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d7caa105b6cce408e3bb83f352f7cb
+      internalID: 1657299789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1037
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df1005c301fb64f9e8a264486d2f92
+      internalID: 757036594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1036
+        width: 48
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 6.5}
+        - {x: -21, y: 0.5}
+        - {x: -24, y: -8.781982}
+        - {x: -11, y: -14.5}
+        - {x: 7, y: -14.5}
+        - {x: 24, y: -7.5}
+        - {x: 22, y: 2.5}
+        - {x: 8, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2ff707d9c91fd4993f49bb5ef3beed
+      internalID: -1963351491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1032
+        width: 100
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17, y: 10}
+        - {x: -44, y: 2}
+        - {x: -48, y: -13}
+        - {x: -33, y: -25}
+        - {x: 0, y: -27}
+        - {x: 41, y: -19}
+        - {x: 50, y: -10}
+        - {x: 49, y: -1}
+        - {x: 18, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cad0152641fd74fbfa3b783851aa21
+      internalID: -1040555493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 981
+        width: 47
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23.5, y: -7.5}
+        - {x: -11.5, y: -14.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 20.5, y: -4.5}
+        - {x: 23.5, y: 2.5}
+        - {x: 9.5, y: 6.5}
+        - {x: -10.5, y: 5.5}
+        - {x: -22.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85682184f4238a47acd256ada1d5004
+      internalID: -1611091307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 982
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d085ac53b0de34bb981feec250c95f
+      internalID: 610369312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 611
+        width: 300
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f53d91ada59e44b19be2d8d28df86
+      internalID: 2141424498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 825
+        width: 95
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 47.5, y: -10}
+        - {x: 47.5, y: 2}
+        - {x: 28.5, y: -3}
+        - {x: 6.5, y: 4}
+        - {x: -11.5, y: 2}
+        - {x: -35.5, y: -1}
+        - {x: -47.5, y: -9}
+        - {x: -47.5, y: -18}
+        - {x: -34.5, y: -26}
+        - {x: -14.5, y: -27}
+        - {x: -7.5, y: -19}
+        - {x: 8.5, y: -17}
+        - {x: 28.5, y: -9}
+        - {x: 43.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502befe895e57e842baeb3bc664579d7
+      internalID: -1126656028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 829
+        width: 72
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 10.5}
+        - {x: -35, y: -1.5}
+        - {x: -34, y: -12.5}
+        - {x: -26, y: -18.5}
+        - {x: -19, y: -20.5}
+        - {x: 10, y: -23.5}
+        - {x: 23.389893, y: -21.440002}
+        - {x: 36, y: -9.5}
+        - {x: 36, y: -0.5}
+        - {x: 18, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3704d172f516f50448c21336390d2485
+      internalID: -1359052689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_15
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 713
+        width: 55
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4a702c726881b48a2c92f9969c8db4
+      internalID: 2135242865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_16
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 713
+        width: 55
+        height: 221
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c74a288780a1b24bbf6b16548b25648
+      internalID: -1757462111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 742
+        width: 62
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -31, y: -4.5}
+        - {x: -31, y: -11.5}
+        - {x: -19, y: -23.5}
+        - {x: -1, y: -26.5}
+        - {x: 21, y: -18.5}
+        - {x: 31, y: -3.5}
+        - {x: 28, y: 10.5}
+        - {x: 9, y: 14.5}
+        - {x: -18, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85507abdc1cbd24c80a72939ce9bb3e
+      internalID: 954545175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_18
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 726
+        width: 47
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10.5, y: 20}
+        - {x: -7.5, y: 21}
+        - {x: -10.5, y: 10}
+        - {x: -18.5, y: -7}
+        - {x: -23.5, y: -32}
+        - {x: -5.5, y: -26}
+        - {x: 9.5, y: -19}
+        - {x: 19.5, y: -7}
+        - {x: 23.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161798aa29b19844e911b6b9fe24bcab
+      internalID: 446753638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 222
+        width: 348
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4ed554075da840a6f81839cd74082
+      internalID: -1252572813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 223
+        width: 253
+        height: 330
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630adc2080e7ceb4a8f7cdc67127e364
+      internalID: -538554061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 222
+        width: 300
+        height: 337
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd4c71593fc444cb5ca4529d6d8dd5
+      internalID: -1543189120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 34
+        width: 245
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118998c63b2c46d4f8c271179eabd6bd
+      internalID: -356299604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Underwater_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 34
+        width: 221
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03af64008a13844b10fa1af634661d
+      internalID: -428588349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c84b579c773f4d4db7c6d3ff1a9b503
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swamp_Underwater_0: -770184848
+      Swamp_Underwater_1: -1638549336
+      Swamp_Underwater_10: -1611091307
+      Swamp_Underwater_11: 610369312
+      Swamp_Underwater_12: 2141424498
+      Swamp_Underwater_13: -1126656028
+      Swamp_Underwater_14: -1359052689
+      Swamp_Underwater_15: 2135242865
+      Swamp_Underwater_16: -1757462111
+      Swamp_Underwater_17: 954545175
+      Swamp_Underwater_18: 446753638
+      Swamp_Underwater_19: -1252572813
+      Swamp_Underwater_2: -403497700
+      Swamp_Underwater_20: -538554061
+      Swamp_Underwater_21: -1543189120
+      Swamp_Underwater_22: -356299604
+      Swamp_Underwater_23: -428588349
+      Swamp_Underwater_3: 1592752245
+      Swamp_Underwater_4: 743760033
+      Swamp_Underwater_5: -1010926730
+      Swamp_Underwater_6: 1657299789
+      Swamp_Underwater_7: 757036594
+      Swamp_Underwater_8: -1963351491
+      Swamp_Underwater_9: -1040555493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

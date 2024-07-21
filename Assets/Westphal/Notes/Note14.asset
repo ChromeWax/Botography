@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note14
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "[The note has frozen into a rigid plate]\r\n\r\nThe southeastern
+    region has been one big snag after another. The men were issued standard equipment
+    for tropical operations. It\u2019s safe to say that we didn\u2019t expect to
+    need winter coats. Those eggheads could\u2019ve been a bit more descriptive than
+    \u201Cunusual weather events\u201D. I\u2019m not risking anyone\u2019s life to
+    hypothermia, for now all operations will be limited to the western part of the
+    island. \r"

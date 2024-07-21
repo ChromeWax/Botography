@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 913b94e89caf37f4fbecc343c44496d4, type: 3}
+  m_Name: SoilClay
+  m_EditorClassIdentifier: 
+  Tiles:
+  - {fileID: 11400000, guid: a946ef5d9bdf8d845b1d6fe42b47113a, type: 2}
+  - {fileID: 11400000, guid: 5d255fe53fd34e140b61ee88350a083e, type: 2}
+  - {fileID: 11400000, guid: 6783951893fab4d46b5f0efa3a3fa016, type: 2}
+  - {fileID: 11400000, guid: 889be7ffca743de4bb4b607b34efeb41, type: 2}
+  - {fileID: 11400000, guid: b484ea69888caf24e8d71bb5fc03d5db, type: 2}
+  - {fileID: 11400000, guid: c904c51e650f91942a8343ff2041a104, type: 2}
+  - {fileID: 11400000, guid: e56b09c8f731b154b89a600df48ced9f, type: 2}
+  - {fileID: 11400000, guid: 5613cb7ec214ef84eb40df25b8b3da0a, type: 2}
+  - {fileID: 11400000, guid: 0af8c089a12cf234d8090fd0ec01f992, type: 2}
+  - {fileID: 11400000, guid: 4de9eaab3fe09fb44bb6dcbc2d16f16f, type: 2}
+  - {fileID: 11400000, guid: 0f42030c3711b3c419cc66408417f00b, type: 2}
+  - {fileID: 11400000, guid: aeda3b1cadcd7354abc3348e75fb5d06, type: 2}
+  - {fileID: 11400000, guid: bd8f06f1414ce15419eac80d5680216b, type: 2}
+  - {fileID: 11400000, guid: e8f3c3ad145baae46b1f41fdab00cf29, type: 2}
+  - {fileID: 11400000, guid: bce066faeb1a0584c8df26f45fc13720, type: 2}
+  - {fileID: 11400000, guid: 11687056a5c32ad4f87413986a423011, type: 2}
+  - {fileID: 11400000, guid: 73cfcb82f094e004aa1758b5f39f4b64, type: 2}
+  Type: 0
+  Attribute: -1

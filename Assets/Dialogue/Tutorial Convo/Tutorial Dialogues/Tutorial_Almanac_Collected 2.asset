@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deac330ead99a5f4d8a23060c960002d, type: 3}
+  m_Name: Tutorial_Almanac_Collected 2
+  m_EditorClassIdentifier: 
+  Prev: {fileID: 11400000, guid: 4098d60e40d6075448783705d8896873, type: 2}
+  Next: {fileID: 0}
+  SpeakerName: Daphney
+  Text: "There\u2019s also a section for me to stash any notes I might find.\r\n"
+  UnrichText: "There\u2019s also a section for any notes I might find.(switch to
+    notes)\r\n"

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plant
+  - Note
+  - Sign
+  - Pedestal
+  - PanaceanPlant
+  - Environment
+  - Sample
+  - Soil
+  - Water
+  - Puddle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Elevation Water
+  - Elevation 1
+  - Elevation 2
+  - Elevation 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Elevation 1
+    uniqueID: 215344647
+    locked: 0
+  - name: Elevation 2
+    uniqueID: 4200252297
+    locked: 0
+  - name: Elevation 3
+    uniqueID: 2104452505
+    locked: 0
+  - name: Elevation Water
+    uniqueID: 2697220771
+    locked: 0
+  - name: UI
+    uniqueID: 3052271285
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 3842348121
+    locked: 0

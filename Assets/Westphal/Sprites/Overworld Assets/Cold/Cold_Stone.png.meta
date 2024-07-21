@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: a1a27d68252b5e04d9370037e219f34f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cold_Stone_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1031
+        width: 87
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8200484e8363922408e44dcac3888760
+      internalID: 173918220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1031
+        width: 88
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354df6b6d95d0e4ab89b35e90a670e3
+      internalID: 147644289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1033
+        width: 69
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028cd6b2120cfcd478c2f5467e691117
+      internalID: 789616101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1031
+        width: 88
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbbec2c1f9c404ba66ab746d2938b3
+      internalID: -606425979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1067
+        width: 123
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559637c6b030ed943bdb23cdf5bf78f3
+      internalID: 1607118578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1039
+        width: 127
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981ae5f652b6294bbe625c994903ca9
+      internalID: -1150312964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1038
+        width: 97
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7894959b05a23409dea941426e1a56
+      internalID: 595504488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 888
+        width: 87
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9039139387c8443bc05508c59574b7
+      internalID: 692008267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 888
+        width: 83
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e153efa16ce025408652feb1f0719ba
+      internalID: -1893954275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 609
+        width: 294
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -73, y: 22.5}
+        - {x: -126, y: 2.5}
+        - {x: -147, y: -24.5}
+        - {x: -146, y: -38.5}
+        - {x: -95, y: -68.5}
+        - {x: 8, y: -60.5}
+        - {x: 73, y: -68.5}
+        - {x: 121, y: -49.5}
+        - {x: 136, y: -49.5}
+        - {x: 147, y: -37.5}
+        - {x: 125, y: -7.5}
+        - {x: 111.370514, y: 1.916687}
+        - {x: 78, y: 3.5}
+        - {x: 46, y: 16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814bd0be42b109740a8032a3bf493080
+      internalID: -1664163417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 623
+        width: 127
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5.5, y: 8.5}
+        - {x: -40.5, y: 2.5}
+        - {x: -61.5, y: -8.5}
+        - {x: -63.5, y: -24.5}
+        - {x: -41.5, y: -36.5}
+        - {x: -26.5, y: -39.5}
+        - {x: 38.5, y: -39.5}
+        - {x: 63.5, y: -24.5}
+        - {x: 62.5, y: -17.5}
+        - {x: 46.5, y: 3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d40988c9c91b48995fe30f5d91eaa
+      internalID: 1175262388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_11
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 703
+        width: 256
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 51}
+        - {x: -106, y: 23}
+        - {x: -128, y: -5}
+        - {x: -103, y: -56}
+        - {x: -41, y: -77}
+        - {x: -11, y: -80}
+        - {x: 82, y: -67}
+        - {x: 116, y: -38}
+        - {x: 128, y: -7}
+        - {x: 119, y: 26}
+        - {x: 59, y: 49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515739f483b75f48b5e31a98e9ffb8e
+      internalID: -87642038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_12
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 559
+        width: 191
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 29.5, y: 44}
+        - {x: -79.5, y: 25}
+        - {x: -95.5, y: 4.34375}
+        - {x: -95.5, y: -3}
+        - {x: -79.5, y: -28}
+        - {x: -44.5, y: -39}
+        - {x: 6.5, y: -44}
+        - {x: 83.5, y: -16}
+        - {x: 95.5, y: 2.5636597}
+        - {x: 85.5, y: 23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b6d77200b69844b80a848f383e5af
+      internalID: -238607168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 335
+        height: 213
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60.5, y: 54.5}
+        - {x: 7.5, y: 48.5}
+        - {x: -32.5, y: 23.5}
+        - {x: -100.5, y: 20.5}
+        - {x: -130.5, y: 9.5}
+        - {x: -155.5, y: -10.5}
+        - {x: -167.5, y: -38.5}
+        - {x: -149.5, y: -61.5}
+        - {x: -137.5, y: -63.5}
+        - {x: -108.5, y: -85.5}
+        - {x: -89.5, y: -95.5}
+        - {x: -75.5858, y: -96.34561}
+        - {x: -40.5, y: -93.5}
+        - {x: 23.5, y: -106.5}
+        - {x: 101.5, y: -88.5}
+        - {x: 125.5, y: -69.5}
+        - {x: 142.5, y: -65.5}
+        - {x: 156.5, y: -54.5}
+        - {x: 167.5, y: -32.5}
+        - {x: 157.5, y: -8.5}
+        - {x: 137.5, y: 20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4e43ea3611ce4e85f6c9a6e77f215
+      internalID: 1693311565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 332
+        width: 342
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82, y: 18.5}
+        - {x: -150, y: -18.5}
+        - {x: -171, y: -49.107086}
+        - {x: -160, y: -78.5}
+        - {x: -40, y: -81.5}
+        - {x: -4, y: -61.5}
+        - {x: 45, y: -52.5}
+        - {x: 141, y: -74.5}
+        - {x: 171, y: -42.5}
+        - {x: 158, y: -18.5}
+        - {x: 140, y: -0.5}
+        - {x: 57, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff7218a38769614b98c9bd572ef24b4
+      internalID: -733268549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 346
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -171, y: -62}
+        - {x: -160, y: -69}
+        - {x: -138, y: -71}
+        - {x: -127, y: -68}
+        - {x: -106.21472, y: -71.84912}
+        - {x: -49, y: -111}
+        - {x: 33, y: -111}
+        - {x: 58, y: -104}
+        - {x: 86, y: -87}
+        - {x: 131, y: -87}
+        - {x: 172, y: -68}
+        - {x: 171, y: -46}
+        - {x: 167, y: -23}
+        - {x: 139, y: -7}
+        - {x: 115, y: -1}
+        - {x: 72, y: 1}
+        - {x: 31, y: 11}
+        - {x: -27, y: 9}
+        - {x: -76, y: -8}
+        - {x: -122, y: -9}
+        - {x: -146, y: -18}
+        - {x: -173, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6128cf12d9be4bbfb50e18043d776
+      internalID: -262184489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cold_Stone_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 102
+        width: 431
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23.5, y: 60.5}
+        - {x: -86.5, y: 40.5}
+        - {x: -122.5, y: 19.5}
+        - {x: -198.5, y: -8.5}
+        - {x: -215.5, y: -25.781738}
+        - {x: -215.5, y: -68.42609}
+        - {x: -189.5, y: -89.5}
+        - {x: -122.5, y: -83.5}
+        - {x: -3.5, y: -94.5}
+        - {x: 179.5, y: -51.5}
+        - {x: 211.5, y: -21.5}
+        - {x: 215.5, y: 22.5}
+        - {x: 211.5, y: 32.5}
+        - {x: 148.5, y: 58.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c652d3d7ca9ac3b4b8c8f0c7cef52e2a
+      internalID: -387846349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6937b27be48b46d48bfa9050901b690e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cold_Stone_0: 173918220
+      Cold_Stone_1: 147644289
+      Cold_Stone_10: 1175262388
+      Cold_Stone_11: -87642038
+      Cold_Stone_12: -238607168
+      Cold_Stone_13: 1693311565
+      Cold_Stone_14: -733268549
+      Cold_Stone_15: -262184489
+      Cold_Stone_16: -387846349
+      Cold_Stone_2: 789616101
+      Cold_Stone_3: -606425979
+      Cold_Stone_4: 1607118578
+      Cold_Stone_5: -1150312964
+      Cold_Stone_6: 595504488
+      Cold_Stone_7: 692008267
+      Cold_Stone_8: -1893954275
+      Cold_Stone_9: -1664163417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

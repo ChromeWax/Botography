@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deac330ead99a5f4d8a23060c960002d, type: 3}
+  m_Name: Tutorial_Lab_Collected 1
+  m_EditorClassIdentifier: 
+  Prev: {fileID: 11400000, guid: 83627b7bab262a544bff790d26aaebae, type: 2}
+  Next: {fileID: 0}
+  SpeakerName: Daphney
+  Text: 'I can combine <color=#7B3F00>soil</color> and <color=#4682B4>water</color>
+    in different environments for new results. Seems none of my seeds survived the
+    fall, though.
+
+'
+  UnrichText: 'I can combine soil and water in different environments for new results.
+    I should find some seeds.
+
+'

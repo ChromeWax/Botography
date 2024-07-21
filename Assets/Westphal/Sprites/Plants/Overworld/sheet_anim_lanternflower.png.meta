@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 5e5395acec939f14ba60b1d70e6e2b38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 619
+        width: 77
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c481beea46ee41bfe0b3d8620813e
+      internalID: 1802782708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 619
+        width: 76
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5065789, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191bc0213fa060b40b5a6578f873be62
+      internalID: -2017019871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 619
+        width: 77
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2148d03db26dad94da2fa6dbc748e4db
+      internalID: 1739256092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 619
+        width: 77
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd5ece5b86e91438cd29ede6d3f333
+      internalID: -317782525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 619
+        width: 76
+        height: 190
+      alignment: 9
+      pivot: {x: 0.49342105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0bedb0efe4a1a4c9d364dfe100a7ef
+      internalID: 242596375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_5
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 619
+        width: 78
+        height: 189
+      alignment: 9
+      pivot: {x: 0.49358973, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc53f70e8a8c004bacf004b74d38653
+      internalID: 87222681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_6
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 619
+        width: 79
+        height: 190
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c217e6f79e00a4dba47624b8180be7
+      internalID: -755555758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 414
+        width: 79
+        height: 188
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe943ba0794e0e943a5cacd764283e5f
+      internalID: 216127133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 414
+        width: 80
+        height: 189
+      alignment: 9
+      pivot: {x: 0.51875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb403c442ee3234c9c8cbc4b88d6fb3
+      internalID: 174676420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 414
+        width: 82
+        height: 190
+      alignment: 9
+      pivot: {x: 0.51829267, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53df28ee3187e45b7fa45abfde68f1
+      internalID: 1339050856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 414
+        width: 83
+        height: 189
+      alignment: 9
+      pivot: {x: 0.52409637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a23c411c732840a8b4e111b7bd7a6
+      internalID: 1002262261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 414
+        width: 85
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5235294, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92904f0be16c561408756f7903909773
+      internalID: 91298931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_12
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 414
+        width: 87
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a135aba7b3d7945aec367c81364c48
+      internalID: 1333912807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 414
+        width: 86
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5290698, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035c0b65b1378b4aa155bd41946fb50
+      internalID: -615346098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 210
+        width: 87
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5114943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b73cd69cab4fe4989859515c80fbc6
+      internalID: 1825115894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 210
+        width: 89
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5224719, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0297279fe9a3d6245be647fe10bd2490
+      internalID: -1981106442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 210
+        width: 90
+        height: 190
+      alignment: 9
+      pivot: {x: 0.54444444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7acdebe2d6eac74bbc4babe6de4a903
+      internalID: -211490609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 210
+        width: 92
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aed5005f908d44f88e7d7cb8a53bef
+      internalID: -490545116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 210
+        width: 92
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5543478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e68ec41550ebe344bef9068f2bdf85e
+      internalID: 1710514069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_19
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 210
+        width: 89
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5505618, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5790a712f08c4cb00c66d70272669
+      internalID: -1981937605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_20
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 210
+        width: 87
+        height: 189
+      alignment: 9
+      pivot: {x: 0.54022986, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83a8783d456d8847a678fcb3e89a872
+      internalID: 1310527451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 84
+        height: 190
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adecfa577a4f9264388463a92ec75033
+      internalID: -973032088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3
+        width: 81
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929a781996e8484c88540a15778620f
+      internalID: -1538620433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3
+        width: 82
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5243902, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d3c2e0a335a54f8ef37bb19c61eb6
+      internalID: 1389819730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_24
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 3
+        width: 80
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec873f847d2d3b5499d072b3b10f4726
+      internalID: -41915457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_lanternflower_25
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3
+        width: 77
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98effc912bc7b841b6455ff56e6440a
+      internalID: 2041309991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_lanternflower_0: 1802782708
+      sheet_anim_lanternflower_1: -2017019871
+      sheet_anim_lanternflower_10: 1002262261
+      sheet_anim_lanternflower_11: 91298931
+      sheet_anim_lanternflower_12: 1333912807
+      sheet_anim_lanternflower_13: -615346098
+      sheet_anim_lanternflower_14: 1825115894
+      sheet_anim_lanternflower_15: -1981106442
+      sheet_anim_lanternflower_16: -211490609
+      sheet_anim_lanternflower_17: -490545116
+      sheet_anim_lanternflower_18: 1710514069
+      sheet_anim_lanternflower_19: -1981937605
+      sheet_anim_lanternflower_2: 1739256092
+      sheet_anim_lanternflower_20: 1310527451
+      sheet_anim_lanternflower_21: -973032088
+      sheet_anim_lanternflower_22: -1538620433
+      sheet_anim_lanternflower_23: 1389819730
+      sheet_anim_lanternflower_24: -41915457
+      sheet_anim_lanternflower_25: 2041309991
+      sheet_anim_lanternflower_3: -317782525
+      sheet_anim_lanternflower_4: 242596375
+      sheet_anim_lanternflower_5: 87222681
+      sheet_anim_lanternflower_6: -755555758
+      sheet_anim_lanternflower_7: 216127133
+      sheet_anim_lanternflower_8: 174676420
+      sheet_anim_lanternflower_9: 1339050856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

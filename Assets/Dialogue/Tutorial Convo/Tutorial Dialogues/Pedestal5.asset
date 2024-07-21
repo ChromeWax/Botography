@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deac330ead99a5f4d8a23060c960002d, type: 3}
+  m_Name: Pedestal5
+  m_EditorClassIdentifier: 
+  Prev: {fileID: 11400000, guid: beb8f64a432966e4788704bc635db345, type: 2}
+  Next: {fileID: 0}
+  SpeakerName: Daphney
+  Text: Hm, maybe if I look around the forest a bit more I can find clues to help
+    me out. Let's get exploring!
+  UnrichText: It also says that in the forest there is a note that can help me find
+    the first panacean which is south west

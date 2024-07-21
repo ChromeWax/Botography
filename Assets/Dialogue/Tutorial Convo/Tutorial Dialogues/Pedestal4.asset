@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deac330ead99a5f4d8a23060c960002d, type: 3}
+  m_Name: Pedestal4
+  m_EditorClassIdentifier: 
+  Prev: {fileID: 11400000, guid: 66149cfd0d1d4f8478e917c6ec2a5194, type: 2}
+  Next: {fileID: 11400000, guid: 8823e33aa92e6bc44af12f217d9dcb1a, type: 2}
+  SpeakerName: ???
+  Text: '"Use them to reach each corner of the island. Create new life, find all
+    the Panacean Plants, and bring back the cure to all the poisons of man."'
+  UnrichText: 'Use them to reach each corner of the island. Craft your tools, find
+    all the panacean plants, and bring back the cure to all the poisions of man. '

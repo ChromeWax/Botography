@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deac330ead99a5f4d8a23060c960002d, type: 3}
+  m_Name: Pedestal2
+  m_EditorClassIdentifier: 
+  Prev: {fileID: 11400000, guid: 69658d2b546d78d4fb907180c8f5fb25, type: 2}
+  Next: {fileID: 11400000, guid: 66149cfd0d1d4f8478e917c6ec2a5194, type: 2}
+  SpeakerName: ???
+  Text: '"A great wound has been inflicted on this place."'
+  UnrichText: 'A great wound has been inflicted on this place.  '

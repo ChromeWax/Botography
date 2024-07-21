@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: cdedaa06bca9bed489875fb9bae95977
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 846
+        width: 99
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8065671cef22641862d97fac247023
+      internalID: -1223791560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 851
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49130955, y: 0.14169328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bfb1c1dff3fa41a385b9ad0be9b02
+      internalID: -112768963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_2
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 852
+        width: 123
+        height: 106
+      alignment: 9
+      pivot: {x: 0.520349, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb4c877df6c0242a9d2608bb77951e
+      internalID: -1695731948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_3
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 840
+        width: 135
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5162227, y: 0.1597771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e42ce1bf0daea4594bdfe2fe17a54b
+      internalID: -1060840814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_4
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 835
+        width: 151
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5207196, y: 0.1662528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5792e895c07df14e854ebbfbdd14cfb
+      internalID: 1083614330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 462
+        width: 151
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5207196, y: 0.1662528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2294ef5b8a3e95947894a07fd094d5a4
+      internalID: 822977540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 473
+        width: 110
+        height: 202
+      alignment: 9
+      pivot: {x: 0.51522714, y: 0.14289409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6aaf6c777d8a94391f285438174364
+      internalID: 365826727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 466
+        width: 101
+        height: 142
+      alignment: 9
+      pivot: {x: 0.49052685, y: 0.1533709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af86ce5e0600dd043ab61c443475c310
+      internalID: 1711495094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 462
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.485926, y: 0.14576535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27911315c62f2c946ad46fa9c5d5c62b
+      internalID: 2020986484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_BeanStalkBomber_Shoot_Bulb_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 474
+        width: 97
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4876671, y: 0.14802292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf30016ee103543b01d832b452024f
+      internalID: -1122917110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7676ca1a520bf5a408d4b05157ee341c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_0: -1223791560
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_1: -112768963
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_2: -1695731948
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_3: -1060840814
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_4: 1083614330
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_5: 822977540
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_6: 365826727
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_7: 1711495094
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_8: 2020986484
+      sheet_anim_BeanStalkBomber_Shoot_Bulb_9: -1122917110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

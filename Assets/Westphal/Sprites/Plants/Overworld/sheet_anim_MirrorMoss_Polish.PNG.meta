@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: e15866cc3c3cdc449a5f3ec0a2fa21e1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 228
+        width: 109
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f1391b78781d4ca95b56bd76c39d2
+      internalID: -874225305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 227
+        width: 106
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49656144, y: 0.014137837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a28e8228f4c9a468f1f620908fd08d
+      internalID: -120428539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 225
+        width: 106
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4972321, y: 0.043262765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49611c3242e4394b8d99a341be2f546
+      internalID: 519939775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 224
+        width: 106
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48701736, y: 0.05757141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0c6fc480325b4a892993fccbd9d75
+      internalID: 1085592023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 224
+        width: 104
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47668868, y: 0.06144054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4e132c67df8f944845d68d69fd0ffc
+      internalID: -1741225442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 100
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47791153, y: 0.05983577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3eb84cb9a0a8d439dee7bf510c011a
+      internalID: -325888757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 131
+        width: 96
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48821798, y: 0.04467149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3cadcc19f1104e8f5e8d624921744
+      internalID: 1791312305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 132
+        width: 95
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5040399, y: 0.027190223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ee831cabe17a46969c19f60a51938
+      internalID: 2032829243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 130
+        width: 99
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49236536, y: 0.05507011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598d22f6d62b4e24088a28fa08234c1b
+      internalID: -1069311012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 129
+        width: 102
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47872746, y: 0.067403235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9b5e9d4b1083845a567638b9edde52
+      internalID: -1337115312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 104
+        height: 66
+      alignment: 9
+      pivot: {x: 0.47978643, y: 0.055412408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70cb2f8f62adf942baa249bc37f0efa
+      internalID: -967541837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 106
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4799652, y: 0.06859102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480a2c07b4a703a42b76fb17a4f547a8
+      internalID: 426606087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 108
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49906948, y: 0.039721474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81075f122e71f438a73a693fb08001
+      internalID: -355527145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 36
+        width: 108
+        height: 69
+      alignment: 9
+      pivot: {x: 0.50904226, y: 0.03980631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87ebf44c8cc304cb4fa293def60650
+      internalID: -1279904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_MirrorMoss_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 39
+        width: 109
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50602734, y: -0.0041647693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ea71e8b3ad2a4aa73fdabe7ba8d93
+      internalID: 394300097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0176041efa656c947bee0a82af92c546
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_MirrorMoss_Polish_0: -874225305
+      sheet_anim_MirrorMoss_Polish_1: -120428539
+      sheet_anim_MirrorMoss_Polish_10: -967541837
+      sheet_anim_MirrorMoss_Polish_11: 426606087
+      sheet_anim_MirrorMoss_Polish_12: -355527145
+      sheet_anim_MirrorMoss_Polish_13: -1279904157
+      sheet_anim_MirrorMoss_Polish_14: 394300097
+      sheet_anim_MirrorMoss_Polish_2: 519939775
+      sheet_anim_MirrorMoss_Polish_3: 1085592023
+      sheet_anim_MirrorMoss_Polish_4: -1741225442
+      sheet_anim_MirrorMoss_Polish_5: -325888757
+      sheet_anim_MirrorMoss_Polish_6: 1791312305
+      sheet_anim_MirrorMoss_Polish_7: 2032829243
+      sheet_anim_MirrorMoss_Polish_8: -1069311012
+      sheet_anim_MirrorMoss_Polish_9: -1337115312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

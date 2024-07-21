@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 19e6de62ec8294c4589696e68b38d346
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 393
+        width: 168
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c203c9232ffb9364f9a2f61e1156cb99
+      internalID: -1154344892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 392
+        width: 160
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5373846, y: 0.006696402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056e70c51ba3f947a14c8cc1fe606b1
+      internalID: -978790505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 392
+        width: 159
+        height: 163
+      alignment: 9
+      pivot: {x: 0.56714386, y: 0.006907457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd7a2931b1c4d44a5afbb61d3ab416
+      internalID: -1112463106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 393
+        width: 156
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5974352, y: 0.001117967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422a832cb085014f80b5d8c465cc53b
+      internalID: -1346509830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 392
+        width: 148
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6296032, y: 0.0071098376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ab2ed55ff2e8a409d1780cd46a4689
+      internalID: 942404557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 147
+        height: 161
+      alignment: 9
+      pivot: {x: 0.65556395, y: 0.0066116997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec41e341fa2df42bc3b4bc2019c253
+      internalID: 769917007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 205
+        width: 148
+        height: 160
+      alignment: 9
+      pivot: {x: 0.67152405, y: 0.0005347252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102db220b6b76a440bb044e96c204a62
+      internalID: -964385984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 203
+        width: 158
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6744777, y: 0.013406031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99729c12c3f3d954e9560ad040de32a3
+      internalID: -292343941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 204
+        width: 156
+        height: 158
+      alignment: 9
+      pivot: {x: 0.63153934, y: 0.008181511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4c0bf0bd36e3488ae29b7f628b5ec
+      internalID: 205971857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 204
+        width: 156
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5995808, y: 0.008521689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd009b4bed84aac48ab202ca3e9bbe25
+      internalID: -1822702439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 159
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5762584, y: 0.0015701078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed20e862c863054ea9c7af8c6fea6c8
+      internalID: -510128007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 167
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5367006, y: 0.0013357127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d89b901698406a41b6feb54e96b74fe
+      internalID: 1030804624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 18
+        width: 168
+        height: 165
+      alignment: 9
+      pivot: {x: 0.52122533, y: 0.006988225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da61d79424ee84aa8253b393dc5a82
+      internalID: -1240947793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_StellaBloom_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 19
+        width: 168
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e6a9769307dd445b88b73fbb9ff3cd
+      internalID: 51484344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 320a54e1e5258014b8ce79cc865d5d01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_StellaBloom_Polish_0: -1154344892
+      sheet_anim_StellaBloom_Polish_1: -978790505
+      sheet_anim_StellaBloom_Polish_10: -510128007
+      sheet_anim_StellaBloom_Polish_11: 1030804624
+      sheet_anim_StellaBloom_Polish_12: -1240947793
+      sheet_anim_StellaBloom_Polish_13: 51484344
+      sheet_anim_StellaBloom_Polish_2: -1112463106
+      sheet_anim_StellaBloom_Polish_3: -1346509830
+      sheet_anim_StellaBloom_Polish_4: 942404557
+      sheet_anim_StellaBloom_Polish_5: 769917007
+      sheet_anim_StellaBloom_Polish_6: -964385984
+      sheet_anim_StellaBloom_Polish_7: -292343941
+      sheet_anim_StellaBloom_Polish_8: 205971857
+      sheet_anim_StellaBloom_Polish_9: -1822702439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

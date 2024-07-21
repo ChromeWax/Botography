@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: PitcherSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 4
+  _plantName: Pitcher
+  _plantScientificName: Nepenthes Mucus
+  _artwork: {fileID: 21300000, guid: 9a93ee059b45a554dbe96def7626cf5c, type: 3}
+  _almanacArtwork: {fileID: 21300000, guid: 5e8ea7f11fe9d4146bae10dbfc6c8bb2, type: 3}
+  _plantSunlightLevel1: 4
+  _plantSoilType1: 0
+  _plantWaterPh1: 2
+  _plantSunlightLevel2: 3
+  _plantSoilType2: 3
+  _plantWaterPh2: 0
+  _description: "This pitcher plant is remarkably similar to the species encountered
+    in most regions of the outside world, but this one seems to be able to digest
+    literally anything. I haven\u2019t seen a plant that can eat solid rock before\u2026
+    I wonder how it avoids eating itself???"
+  _plantUsageType: 1
+  _prefab: {fileID: 2992215339640502754, guid: e1f3031696f3fb64988ca382f494b794, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note12
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: "Back on the boat, we took a look at the genes of the plants from
+    different parts of the island. They all have some sort of genetic connection
+    to each other, a common ancestor perhaps. One result of this fascinating anomaly
+    is that they are all highly photosensitive, and will only grow on certain parts
+    of the island where the light is just right. \r\n\r\n[The author details plans
+    similar to the sun-o-meter you are carrying in your lab.]\r"

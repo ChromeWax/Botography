@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: BubbleSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 7
+  _plantName: Bubble Bulb
+  _plantScientificName: Aquifer Clerodendrum
+  _artwork: {fileID: -1517692193, guid: 2ff1933d89dba4a4c9534e53e3c024f3, type: 3}
+  _almanacArtwork: {fileID: 1844188342, guid: 2ff1933d89dba4a4c9534e53e3c024f3, type: 3}
+  _plantSunlightLevel1: 3
+  _plantSoilType1: 2
+  _plantWaterPh1: 2
+  _plantSunlightLevel2: 0
+  _plantSoilType2: 0
+  _plantWaterPh2: 2
+  _description: "It has an incredibly fast rate of cellular respiration. I\u2019s
+    so fast that the internal membrane is able to stay inflated underwater! Carbon
+    dioxide is eaten and converted to breathable oxygen, like a squishy scuba helmet.
+    Upon ingestion, I felt refreshed and cleansed."
+  _plantUsageType: -1
+  _prefab: {fileID: 2992215339640502754, guid: d975b10395b0160408d3a0e36ce2b032, type: 3}

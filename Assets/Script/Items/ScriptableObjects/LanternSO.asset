@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1240fede1c7ac47884cc492e2984f8, type: 3}
+  m_Name: LanternSO
+  m_EditorClassIdentifier: 
+  _pageNumber: 6
+  _plantName: Lantern
+  _plantScientificName: Lumina Lobelia
+  _artwork: {fileID: -264467686, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _almanacArtwork: {fileID: 1979560900, guid: 36140e1256b510e468c4b6090e9aac58, type: 3}
+  _plantSunlightLevel1: 4
+  _plantSoilType1: 1
+  _plantWaterPh1: 2
+  _plantSunlightLevel2: 0
+  _plantSoilType2: 3
+  _plantWaterPh2: 2
+  _description: "This plant has clearly never studied thermodynamics. It\u2019s highly
+    bioluminescent and able to photosynthesize. Theoretically, the lantern flower
+    could produce an endless supply of free light! I have no idea where the energy
+    comes from!"
+  _plantUsageType: 1
+  _prefab: {fileID: 5027666521156836974, guid: be5907edcaec4ca46aac0399069ee5e3, type: 3}

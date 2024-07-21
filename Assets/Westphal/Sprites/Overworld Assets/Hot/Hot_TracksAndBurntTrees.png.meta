@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: e9d2ca66320e7a145adb6cb56603514c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9590158073ffb9b4d803271e300366a8
+      internalID: -1600498728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a69f9516f6fd44b84635b54112c54
+      internalID: 1214290095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cae629c461f3e4ba909ca155d8c522
+      internalID: 1116906444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123a37433937ff42af73efa6a9f3f07
+      internalID: -91093110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e29b7e527f6ca4fba61251cb3615b0
+      internalID: -544395758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215c5f53d5814c249abc63c1c70bf562
+      internalID: 1982888838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e361a77a45a144e9a2887618fa62bb
+      internalID: 1972539165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d799be959ca94f488497a504bb7a5f7
+      internalID: 1712957012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a5799743931445a58daa0315d8884
+      internalID: 273995144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297177796c265624bbc3af58b059d777
+      internalID: 35549904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 660
+        width: 536
+        height: 510
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2267dfe058367141b3e0b837d1bd64f
+      internalID: 167526201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 18
+        width: 658
+        height: 613
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0475d0a41529e4c90dd997c78ff541
+      internalID: -1347637556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_TracksAndBurntTrees_7
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 11
+        width: 270
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afa56653de71049b3881466104af87
+      internalID: -787222439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fcc95fc27c965f54b9d6090843f42845
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hot_TracksAndBurntTrees_0: -1600498728
+      Hot_TracksAndBurntTrees_1: 1214290095
+      Hot_TracksAndBurntTrees_10: 1982888838
+      Hot_TracksAndBurntTrees_11: 1972539165
+      Hot_TracksAndBurntTrees_12: -1460149707
+      Hot_TracksAndBurntTrees_13: 1425578446
+      Hot_TracksAndBurntTrees_14: -1193813440
+      Hot_TracksAndBurntTrees_15: 229841932
+      Hot_TracksAndBurntTrees_16: -1329930573
+      Hot_TracksAndBurntTrees_17: 1712957012
+      Hot_TracksAndBurntTrees_18: 1269388107
+      Hot_TracksAndBurntTrees_19: 15817486
+      Hot_TracksAndBurntTrees_2: 1116906444
+      Hot_TracksAndBurntTrees_20: 273995144
+      Hot_TracksAndBurntTrees_21: 57239788
+      Hot_TracksAndBurntTrees_22: 35549904
+      Hot_TracksAndBurntTrees_23: -749436829
+      Hot_TracksAndBurntTrees_24: 1305532487
+      Hot_TracksAndBurntTrees_25: 125626062
+      Hot_TracksAndBurntTrees_26: -212959378
+      Hot_TracksAndBurntTrees_27: 734884299
+      Hot_TracksAndBurntTrees_28: 710918031
+      Hot_TracksAndBurntTrees_29: -2121315250
+      Hot_TracksAndBurntTrees_3: -91093110
+      Hot_TracksAndBurntTrees_30: -1003737571
+      Hot_TracksAndBurntTrees_31: 1617227522
+      Hot_TracksAndBurntTrees_32: -1779823156
+      Hot_TracksAndBurntTrees_33: 1565524375
+      Hot_TracksAndBurntTrees_34: 1745139898
+      Hot_TracksAndBurntTrees_35: -1765770939
+      Hot_TracksAndBurntTrees_36: -1179997794
+      Hot_TracksAndBurntTrees_37: 920542097
+      Hot_TracksAndBurntTrees_38: 1481624754
+      Hot_TracksAndBurntTrees_39: -1661736006
+      Hot_TracksAndBurntTrees_4: -544395758
+      Hot_TracksAndBurntTrees_40: 1885872646
+      Hot_TracksAndBurntTrees_41: -2027107652
+      Hot_TracksAndBurntTrees_42: 2142005416
+      Hot_TracksAndBurntTrees_43: 1870234325
+      Hot_TracksAndBurntTrees_44: -511927987
+      Hot_TracksAndBurntTrees_45: -135663129
+      Hot_TracksAndBurntTrees_46: -1952174899
+      Hot_TracksAndBurntTrees_47: -1825645086
+      Hot_TracksAndBurntTrees_48: -170462198
+      Hot_TracksAndBurntTrees_49: 1195761773
+      Hot_TracksAndBurntTrees_5: 167526201
+      Hot_TracksAndBurntTrees_50: -231612924
+      Hot_TracksAndBurntTrees_51: 1444135948
+      Hot_TracksAndBurntTrees_52: 41729328
+      Hot_TracksAndBurntTrees_53: -599444333
+      Hot_TracksAndBurntTrees_54: -892248367
+      Hot_TracksAndBurntTrees_6: -1347637556
+      Hot_TracksAndBurntTrees_7: -787222439
+      Hot_TracksAndBurntTrees_8: -1633452545
+      Hot_TracksAndBurntTrees_9: -681683904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

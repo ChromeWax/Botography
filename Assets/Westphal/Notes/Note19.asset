@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73121397600af5a49abb6faebaf64dfc, type: 3}
+  m_Name: Note19
+  m_EditorClassIdentifier: 
+  _author: ???
+  _description: ". \rSome plants can be equipped, giving you new powers\r\n\rSome
+    can be put in the <b>hand slot</b> from the <b>inventory</b>. When closing the
+    inventory, it'll appear in the hot bar slot.\r\n\r<b>Left Click</b> on the plant
+    in the hotbar, and you can drag it around the world.\r\n\rIf placed by <b>Left
+    Click</b> on an area, it'll place the plant.\r\nIt can be picked back up by <Right
+    Click>\r\n\rIf dragged onto an interactable object, it can be <b>Left Click</b>
+    on.\r"

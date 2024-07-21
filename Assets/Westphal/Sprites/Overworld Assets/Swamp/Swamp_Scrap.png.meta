@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 85696573934cd8f4196480968183cf2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swamp_Scrap_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 982
+        width: 394
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: 95.5}
+        - {x: -156, y: 95.5}
+        - {x: -197, y: 83.5}
+        - {x: -197, y: 61.5}
+        - {x: -194, y: 60.5}
+        - {x: -180, y: 56.5}
+        - {x: -197, y: 16.5}
+        - {x: -197, y: -1.5}
+        - {x: 54, y: -95.5}
+        - {x: 186, y: -95.5}
+        - {x: 197, y: -94.5}
+        - {x: 197, y: 0.5}
+        - {x: 196, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710920328208eda4bb2998c456ac5ef1
+      internalID: -524178551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1007
+        width: 161
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 63.5}
+        - {x: -80.5, y: -62.5}
+        - {x: -79.5, y: -63.5}
+        - {x: 59.5, y: -63.5}
+        - {x: 70.5, y: -61.5}
+        - {x: 80.5, y: -42.5}
+        - {x: 80.5, y: 40.5}
+        - {x: 73.5, y: 63.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b9ba0ce09db2498f568b985e62360
+      internalID: 1862809145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_2
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1104
+        width: 76
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038eb2f6988f8654f89bbcdb172f7763
+      internalID: 1236021971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 986
+        width: 200
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 30.5}
+        - {x: -100, y: 25.5}
+        - {x: -100, y: -11.5}
+        - {x: -45, y: -30.5}
+        - {x: 65, y: -30.5}
+        - {x: 100, y: -10.5}
+        - {x: 100, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88ace5c06207f49a625d02b8091451
+      internalID: -1263296795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1005
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458e2ad921e3f64d84f5cfbcb98cca4
+      internalID: -788890758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 983
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143a0a5be14f19498585833211a3cd9
+      internalID: 354642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 865
+        width: 201
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: 35.5}
+        - {x: -100.5, y: -35.5}
+        - {x: 99.5, y: -35.5}
+        - {x: 100.5, y: -32.5}
+        - {x: 100.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb02b2bc324e544b8f09ddd72cc7ce1
+      internalID: -768192209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 842
+        width: 149
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 55.5}
+        - {x: -66.5, y: 55.5}
+        - {x: -74.5, y: 45.5}
+        - {x: -74.5, y: -35.5}
+        - {x: -62.5, y: -55.5}
+        - {x: 45.5, y: -55.5}
+        - {x: 53.5, y: -49.5}
+        - {x: 74.5, y: -27.5}
+        - {x: 74.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2dfd9d4b0a7184f97ad90e3ea152b0
+      internalID: 1467200143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 843
+        width: 132
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 55}
+        - {x: -66, y: 50}
+        - {x: -66, y: -46}
+        - {x: -62, y: -55}
+        - {x: 66, y: -55}
+        - {x: 66, y: 52}
+        - {x: 54, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7df03b19603d40a4a5aabf2548d3e
+      internalID: 828131067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 921
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225fce82e344264459d3f34dbd9efd33
+      internalID: -1992585482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_10
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 878
+        width: 73
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3029cbfec87aed4c973c496713733da
+      internalID: -794137785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 883
+        width: 53
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49f188fed075d4abe589fba910748c
+      internalID: -1816363598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 873
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9901ef4186b4a47967b74f0e5d689f
+      internalID: 300958276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 862
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cccdc27f24f6e438d31a4578192581
+      internalID: 1317959970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 622
+        width: 393
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.5, y: 95.5}
+        - {x: -196.5, y: 90.5}
+        - {x: -196.5, y: -14.5}
+        - {x: 117.5, y: -95.5}
+        - {x: 158.5, y: -95.5}
+        - {x: 196.5, y: -69.5}
+        - {x: 196.5, y: 8.5}
+        - {x: -115.5, y: 95.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e79451a5b095547aea524d73c637ef
+      internalID: -1413352570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 627
+        width: 200
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 30.5}
+        - {x: -100, y: 22.5}
+        - {x: -100, y: -13.5}
+        - {x: -25, y: -30.5}
+        - {x: 69, y: -30.5}
+        - {x: 100, y: -5.5}
+        - {x: 100, y: 24.5}
+        - {x: 94, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f7b7217e551734c96204b73258df8f
+      internalID: 727116691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 650
+        width: 161
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 63.5}
+        - {x: -76.5, y: 56.5}
+        - {x: -80.5, y: 41.5}
+        - {x: -80.5, y: -35.5}
+        - {x: -49.5, y: -63.5}
+        - {x: 37.5, y: -63.5}
+        - {x: 77.5, y: -56.5}
+        - {x: 80.5, y: -49.5}
+        - {x: 80.5, y: 26.5}
+        - {x: 59.5, y: 63.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f6bd9ef6e98344a95c6036a085022
+      internalID: 796993483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_17
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 648
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ddf5368b7b0647bde0f295d2dd713
+      internalID: 1130199423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 508
+        width: 201
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.5, y: 35.5}
+        - {x: -38.5, y: 35.5}
+        - {x: -86.5, y: 32.5}
+        - {x: -93.5, y: 23.5}
+        - {x: -100.5, y: 9.5}
+        - {x: -100.5, y: -35.5}
+        - {x: 100.5, y: -35.5}
+        - {x: 100.5, y: -6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32245bd3df7d3479d124cb5122d075
+      internalID: 786118012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 485
+        width: 149
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 55.5}
+        - {x: -74.5, y: 44.5}
+        - {x: -74.5, y: -29.5}
+        - {x: -40.5, y: -53.5}
+        - {x: -29.5, y: -55.5}
+        - {x: 72.5, y: -55.5}
+        - {x: 74.5, y: -47.5}
+        - {x: 74.5, y: 55.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293ca1eb8744bb459327adc4913ce87
+      internalID: -139478695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 486
+        width: 132
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 55}
+        - {x: -66, y: 35}
+        - {x: -66, y: -35}
+        - {x: -59, y: -55}
+        - {x: 60, y: -55}
+        - {x: 66, y: -45}
+        - {x: 66, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e1a0c729c2a94fa40e2215908f169
+      internalID: -1657692010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 564
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f863487f548bd418b16ca0f4b0d803
+      internalID: 806355287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_22
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 524
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea17efbb2c71f4a8c0a53e21852711
+      internalID: -181650302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 516
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943f7be8ed0fd84c9b3d97591dcfd87
+      internalID: -757852972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_24
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 505
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824232c7b6f2e194c935b181df8d15f5
+      internalID: 2018528802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 262
+        width: 394
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -175, y: 95.5}
+        - {x: -197, y: 90.5}
+        - {x: -197, y: -33.5}
+        - {x: 103, y: -95.5}
+        - {x: 196, y: -95.5}
+        - {x: 197, y: -87.5}
+        - {x: 197, y: 5.5}
+        - {x: -125, y: 95.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d436f270c445c469d834630d6495ba
+      internalID: 151923596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 267
+        width: 200
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 30.5}
+        - {x: -100, y: 27.5}
+        - {x: -100, y: -13.5}
+        - {x: -27, y: -30.5}
+        - {x: 70, y: -30.5}
+        - {x: 100, y: -4.5}
+        - {x: 100, y: 30.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39188c0af36a2d4b86f4dfe54b3b414
+      internalID: -875086668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_27
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 288
+        width: 160
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 63.5}
+        - {x: -80, y: 56.5}
+        - {x: -80, y: -35.5}
+        - {x: -61, y: -63.5}
+        - {x: 56, y: -63.5}
+        - {x: 61, y: -61.5}
+        - {x: 80, y: -32.5}
+        - {x: 80, y: 32.5}
+        - {x: 64, y: 63.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32ad8b7e43d8c14db17eab31e099818
+      internalID: -808450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_28
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 286
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877ae1743b94da4c880f4a1f8179041
+      internalID: 808949423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 201
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: 35.5}
+        - {x: -100.5, y: -35.5}
+        - {x: 100.5, y: -35.5}
+        - {x: 100.5, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a5f33050dfc304fb6f087b23f11b0e
+      internalID: 1585839659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 123
+        width: 148
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 55.5}
+        - {x: -44, y: 55.5}
+        - {x: -74, y: 32.5}
+        - {x: -74, y: -35.5}
+        - {x: -56, y: -55.5}
+        - {x: 57, y: -55.5}
+        - {x: 74, y: -39.5}
+        - {x: 74, y: 40.5}
+        - {x: 72, y: 50.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46312098f456da748adf53278c218432
+      internalID: 2006920707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 124
+        width: 132
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 55}
+        - {x: -66, y: -55}
+        - {x: 59, y: -55}
+        - {x: 66, y: -53}
+        - {x: 66, y: 34}
+        - {x: 44, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752bf08f4a4bf04cb5a0041cd8ce888
+      internalID: -1112125693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_32
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 202
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290d9fb860a22c41a8d177657cff280
+      internalID: -636880469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_33
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 164
+        width: 52
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7364a226c848e488a6709a1b61d11b
+      internalID: 1141444132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_34
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 154
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7503624284e34bb65230eb6c02f26
+      internalID: -2012264478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_35
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 143
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fd40c381d54a4c8bc80c9f6cf249f
+      internalID: -606847714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5fd5a5392ca8f4992d3d8459d07490
+      internalID: 1136934435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 28
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb064bb057d0be646bb6135c31c55884
+      internalID: -713705269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 28
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2e929ccbb88294b9f3bc1d76d60c88
+      internalID: 1866393115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 31
+        width: 22
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160092fef85fc54daee691829b6c351
+      internalID: -861736107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_42
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 31
+        width: 62
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084d174682e57dd4e952170fc81afeaa
+      internalID: 947194514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_43
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 46
+        width: 56
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c1dff2c315f8844b0a3e5dc50dd2a2
+      internalID: -1095506266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_44
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 27
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed33f7dbb235d1409c4331a65472a17
+      internalID: 350072019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_45
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 45
+        width: 75
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5456182628bebf4abd1fa0410c4f6dd
+      internalID: -42564142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp_Scrap_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 28
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352d8a3c738df343a210102e9ff8498
+      internalID: 1407729058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1ee1d87447107ee48b2a996a68c05e06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swamp_Scrap_0: -524178551
+      Swamp_Scrap_1: 1862809145
+      Swamp_Scrap_10: -794137785
+      Swamp_Scrap_11: -1816363598
+      Swamp_Scrap_12: 300958276
+      Swamp_Scrap_13: 1317959970
+      Swamp_Scrap_14: -1413352570
+      Swamp_Scrap_15: 727116691
+      Swamp_Scrap_16: 796993483
+      Swamp_Scrap_17: 1130199423
+      Swamp_Scrap_18: 786118012
+      Swamp_Scrap_19: -139478695
+      Swamp_Scrap_2: 1236021971
+      Swamp_Scrap_20: -1657692010
+      Swamp_Scrap_21: 806355287
+      Swamp_Scrap_22: -181650302
+      Swamp_Scrap_23: -757852972
+      Swamp_Scrap_24: 2018528802
+      Swamp_Scrap_25: 151923596
+      Swamp_Scrap_26: -875086668
+      Swamp_Scrap_27: -808450598
+      Swamp_Scrap_28: 808949423
+      Swamp_Scrap_29: 1585839659
+      Swamp_Scrap_3: -1263296795
+      Swamp_Scrap_30: 2006920707
+      Swamp_Scrap_31: -1112125693
+      Swamp_Scrap_32: -636880469
+      Swamp_Scrap_33: 1141444132
+      Swamp_Scrap_34: -2012264478
+      Swamp_Scrap_35: -606847714
+      Swamp_Scrap_36: 1136934435
+      Swamp_Scrap_37: -713705269
+      Swamp_Scrap_38: 1866393115
+      Swamp_Scrap_39: 815353363
+      Swamp_Scrap_4: -788890758
+      Swamp_Scrap_40: 1407729058
+      Swamp_Scrap_41: -861736107
+      Swamp_Scrap_42: 947194514
+      Swamp_Scrap_43: -1095506266
+      Swamp_Scrap_44: 350072019
+      Swamp_Scrap_45: -42564142
+      Swamp_Scrap_46: -31553329
+      Swamp_Scrap_47: -1931620183
+      Swamp_Scrap_5: 354642356
+      Swamp_Scrap_6: -768192209
+      Swamp_Scrap_7: 1467200143
+      Swamp_Scrap_8: 828131067
+      Swamp_Scrap_9: -1992585482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

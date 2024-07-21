@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 438836ff8e793314cad0c06427a95129
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 878
+        width: 148
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5b83bf56822e42b14e214d756ad0b
+      internalID: 2103550258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 879
+        width: 149
+        height: 151
+      alignment: 9
+      pivot: {x: 0.50352466, y: -0.00637878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f0869ee88c4a438f00f31b6ba41e3
+      internalID: -1492414837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 879
+        width: 156
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5261066, y: -0.007121675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3915c825d7a4248b2a6d78c12c4d39
+      internalID: 1407634134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 879
+        width: 155
+        height: 164
+      alignment: 9
+      pivot: {x: 0.53626394, y: -0.007045467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60557bd4bd746047b1e29b7b6a73a38
+      internalID: 290140899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 887
+        width: 184
+        height: 180
+      alignment: 9
+      pivot: {x: 0.60307974, y: -0.0070058187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f3f0fe620fe2e47be2b0f2ab06cb57
+      internalID: 2057885893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 668
+        width: 223
+        height: 199
+      alignment: 9
+      pivot: {x: 0.6729154, y: -0.0023791443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc81649380f1f41b9e1d888d984619
+      internalID: -117690811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 668
+        width: 152
+        height: 127
+      alignment: 9
+      pivot: {x: 0.526371, y: -0.0030724232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e0d987ba7dd146be4f267e895d17b
+      internalID: 1470077101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_7
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 667
+        width: 152
+        height: 128
+      alignment: 9
+      pivot: {x: 0.52635676, y: 0.0042762756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2765cff8f0b34b973d53f5b7cbb67
+      internalID: 414371507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 669
+        width: 156
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5387515, y: -0.0123641305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a564e1369f7901240b6002667bfed8f5
+      internalID: 120824804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 484
+        width: 155
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5412078, y: -0.00322014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd903fee478c1784f9421d3fa2e80fef
+      internalID: -1198648806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 485
+        width: 156
+        height: 112
+      alignment: 9
+      pivot: {x: 0.54998565, y: -0.012377058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a93a95fbd35a4c8c95a1797be91b4
+      internalID: 987416342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 486
+        width: 156
+        height: 111
+      alignment: 9
+      pivot: {x: 0.55725527, y: -0.021053005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c80f92106e77047a67ef652c18f3dc
+      internalID: -1781094468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_12
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 486
+        width: 156
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5583981, y: -0.021316666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228650d00e3b63f4b9e1b74ad4cb04f4
+      internalID: -1132076616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 158
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5641761, y: -0.020569643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637fc5ab391616640a260a4625f72cbf
+      internalID: 148114311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 329
+        width: 156
+        height: 118
+      alignment: 9
+      pivot: {x: 0.57108915, y: -0.02867773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc67923dbf70914aa50c62e4f454f2a
+      internalID: -1800479163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 328
+        width: 165
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5879746, y: -0.018913621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36faf0353bb62424cb2aa4af0d2268fb
+      internalID: -234452760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 328
+        width: 184
+        height: 139
+      alignment: 9
+      pivot: {x: 0.6247353, y: -0.017083257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67389f3eac41c5f40970b221b7187ec1
+      internalID: 1949428703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 161
+        width: 156
+        height: 110
+      alignment: 9
+      pivot: {x: 0.55718756, y: -0.021342607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c8b9c4ee0639c4cbbba5db541c491b
+      internalID: -1872050700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 160
+        width: 157
+        height: 112
+      alignment: 9
+      pivot: {x: 0.54788053, y: -0.011993544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70222e8b7905e4391a7c3a528ad88f
+      internalID: 1653751612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 160
+        width: 156
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5452928, y: -0.012008127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916e3d767925b0469074b3ece7ab215
+      internalID: -985105777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 160
+        width: 156
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5393884, y: -0.011754973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0806e57fffdfb489a0c656e5188b2d
+      internalID: -96552759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_21
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 159
+        width: 153
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5305758, y: -0.002206227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d794f1ee7ada484448eb9112843073dd
+      internalID: -1205663438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 152
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5275143, y: -0.0029121873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a80738c0c5011489b44f0ff54a83ee
+      internalID: -26316310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 152
+        height: 131
+      alignment: 9
+      pivot: {x: 0.52077967, y: -0.010643289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e6e79202a9f54d9928dcb305724e7
+      internalID: 1401982656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7
+        width: 152
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5201783, y: -0.010451906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3815bf5f5bac86458c96814a608dfb9
+      internalID: -1510487541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_25
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 6
+        width: 150
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5139343, y: -0.0036262316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c75a86f2bf70541a94e3934eef4a5d
+      internalID: -779362465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_anim_PitcherPlant_Polish_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 7
+        width: 149
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5043335, y: -0.010557585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585ca9380d8cd14d902d2e0e3ede287
+      internalID: -681680551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff53e6c33f7cbce48bfb236d4d09ff62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_anim_PitcherPlant_Polish_0: 2103550258
+      sheet_anim_PitcherPlant_Polish_1: -1492414837
+      sheet_anim_PitcherPlant_Polish_10: 987416342
+      sheet_anim_PitcherPlant_Polish_11: -1781094468
+      sheet_anim_PitcherPlant_Polish_12: -1132076616
+      sheet_anim_PitcherPlant_Polish_13: 148114311
+      sheet_anim_PitcherPlant_Polish_14: -1800479163
+      sheet_anim_PitcherPlant_Polish_15: -234452760
+      sheet_anim_PitcherPlant_Polish_16: 1949428703
+      sheet_anim_PitcherPlant_Polish_17: -1872050700
+      sheet_anim_PitcherPlant_Polish_18: 1653751612
+      sheet_anim_PitcherPlant_Polish_19: -985105777
+      sheet_anim_PitcherPlant_Polish_2: 1407634134
+      sheet_anim_PitcherPlant_Polish_20: -96552759
+      sheet_anim_PitcherPlant_Polish_21: -1205663438
+      sheet_anim_PitcherPlant_Polish_22: -26316310
+      sheet_anim_PitcherPlant_Polish_23: 1401982656
+      sheet_anim_PitcherPlant_Polish_24: -1510487541
+      sheet_anim_PitcherPlant_Polish_25: -779362465
+      sheet_anim_PitcherPlant_Polish_26: -681680551
+      sheet_anim_PitcherPlant_Polish_27: -422941545
+      sheet_anim_PitcherPlant_Polish_29: 1608922316
+      sheet_anim_PitcherPlant_Polish_3: 290140899
+      sheet_anim_PitcherPlant_Polish_31: -1532450071
+      sheet_anim_PitcherPlant_Polish_32: 97959069
+      sheet_anim_PitcherPlant_Polish_34: -254463755
+      sheet_anim_PitcherPlant_Polish_4: 2057885893
+      sheet_anim_PitcherPlant_Polish_5: -117690811
+      sheet_anim_PitcherPlant_Polish_6: 1470077101
+      sheet_anim_PitcherPlant_Polish_7: 414371507
+      sheet_anim_PitcherPlant_Polish_8: 120824804
+      sheet_anim_PitcherPlant_Polish_9: -1198648806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
