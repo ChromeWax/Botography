@@ -17,6 +17,11 @@ worked by 16 students with 6 Computer Science, 8 Game Design, and 2 Sound Engine
 ![](Images/Botography_7.png)
 ![](Images/Botography_8.png)
 
+# Built With
+* Unity
+* C#
+* Perforce
+
 # CCI Authors
 * Richard Vo
 * Brandon Pero
