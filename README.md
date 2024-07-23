@@ -22,7 +22,7 @@ worked by 16 students with 6 Computer Science, 8 Game Design, and 2 Sound Engine
 * C#
 * Perforce
 
-# CCI Authors
+# Computer Science Authors
 * Richard Vo
 * Brandon Pero
 * Sully Jenkins
