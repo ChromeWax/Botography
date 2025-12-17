@@ -5,7 +5,7 @@ Become a Botanist in Botography, a cozy 2D adventure-exploration game. Plants gi
 The game was worked by 16 people with 6 Computer Science, 8 Game Design, and 2 Sound Engineer students. One other and I led the development of the game's features with multiple scrums. I was mainly responsible for coding player movement, elevation traversal, various plant abilities, item stacking system, underwater system, and almanac system. I assisted in the placement system, saving system, settings system, and inventory system. I also worked to improve upon the art of the Game Design students by adding shadows, post-processing, blur effects, and more. The project ultimately won second place out of roughly 60 projects in the senior showcase.
 
 # How to Run
-* Download Unity Version 2022.3.10f1
+* Download Unity Version 2022.3.62f3
 * Open the project in Unity
 * Go to File -> Build Settings -> Build and choose a build location
 * Open Botography.exe
